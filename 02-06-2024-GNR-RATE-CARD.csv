@@ -1,0 +1,660 @@
+id,plan_name,global_plan,region,plan_type,data,validity,package_name,retail_price,wholesale_price,cost_price,singleUse,test_plan,isRegional,created_at,updated_at,deleted_at,vendor_id,countries
+,Aaland Islands 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_AX_U,25,20,#ERROR!,0,0,0,,,,3,AX
+,Aaland Islands 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_AX_U,5,3.2,#ERROR!,0,0,0,,,,3,AX
+,Aaland Islands 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_AX_U,42,30,#ERROR!,0,0,0,,,,3,AX
+,Aaland Islands 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_AX_U,10,7,#ERROR!,0,0,0,,,,3,AX
+,Aaland Islands 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_AX_U,15,12,#ERROR!,0,0,0,,,,3,AX
+,Africa 10GB,0,Africa,2,10,30,esimg_10GB_30D_RAF_U,65,60,54.98,0,0,1,,,,3,"TD,CG,CD,EG,KE,MG,NG,RE,SC,ZA,TZ,TN,UG,ZM"
+,Africa 1GB,0,Africa,2,1,7,esimg_1GB_7D_RAF_U,9.5,7.75,6.71,0,0,1,,,,3,"TD,CG,CD,EG,KE,MG,NG,RE,SC,ZA,TZ,TN,UG,ZM"
+,Africa 20GB,0,Africa,2,20,30,esimg_20GB_30D_RAF_U,120,110,98.77,0,0,1,,,,3,"TD,CG,CD,EG,KE,MG,NG,RE,SC,ZA,TZ,TN,UG,ZM"
+,Africa 3GB,0,Africa,2,3,30,esimg_3GB_30D_RAF_U,27,22.5,18.15,0,0,1,,,,3,"TD,CG,CD,EG,KE,MG,NG,RE,SC,ZA,TZ,TN,UG,ZM"
+,Africa 5GB,0,Africa,2,5,30,esimg_5GB_30D_RAF_U,42,35,29.95,0,0,1,,,,3,"TD,CG,CD,EG,KE,MG,NG,RE,SC,ZA,TZ,TN,UG,ZM"
+,Albania 1GB,0,Eastern Europe,2,1,7,esimgnr_1GB_7D_AL_U,12,10,#ERROR!,0,0,0,,,,3,AL
+,Albania 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_AL_U,35,30,#ERROR!,0,0,0,,,,3,AL
+,Albania 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_AL_U,45,40,#ERROR!,0,0,0,,,,3,AL
+,Algeria 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_DZ_U,25,23,#ERROR!,0,0,0,,,,3,DZ
+,Algeria 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_DZ_U,65,60,#ERROR!,0,0,0,,,,3,DZ
+,Algeria 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_DZ_U,110,100,#ERROR!,0,0,0,,,,3,DZ
+,Andorra 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_AD_U,55,50,#ERROR!,0,0,0,,,,3,AD
+,Andorra 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_AD_U,10,8,#ERROR!,0,0,0,,,,3,AD
+,Andorra 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_AD_U,25,22,#ERROR!,0,0,0,,,,3,AD
+,Andorra 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_AD_U,32,30,#ERROR!,0,0,0,,,,3,AD
+,Argentina 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_AR_U,55,50,#ERROR!,0,0,0,,,,3,AR
+,Argentina 1GB,0,LATM,2,1,7,esimgnr_1GB_7D_AR_U,9.5,7.2,#ERROR!,0,0,0,,,,3,AR
+,Argentina 20GB,0,LATM,2,20,30,esimgnr_20GB_30D_AR_U,99,85,#ERROR!,0,0,0,,,,3,AR
+,Argentina 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_AR_U,21.5,18,#ERROR!,0,0,0,,,,3,AR
+,Argentina 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_AR_U,35,30,#ERROR!,0,0,0,,,,3,AR
+,Armenia 10GB,0,Middle East,2,10,30,esimgnr_10GB_30D_AM_U,110,100,#ERROR!,0,0,0,,,,3,AM
+,Armenia 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_AM_U,15,12,#ERROR!,0,0,0,,,,3,AM
+,Armenia 20GB,0,Middle East,2,20,30,esimgnr_20GB_30D_AM_U,160,150,#ERROR!,0,0,0,,,,3,AM
+,Armenia 3GB,0,Middle East,2,3,30,esimgnr_3GB_30D_AM_U,32,30,#ERROR!,0,0,0,,,,3,AM
+,Armenia 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_AM_U,50,46,#ERROR!,0,0,0,,,,3,AM
+,Asia 10GB,0,Asia,2,10,30,esimg_10GB_30D_RAS_U,25,21,17.3,0,0,1,,,,3,"AU,CN,HK,ID,KZ,KR,MO,MY,PK,SG,LK,TW,TH,UZ,VN"
+,Asia 1GB,0,Asia,2,1,7,esimg_1GB_7D_RAS_U,5,4,2.5,0,0,1,,,,3,"AU,CN,HK,ID,KZ,KR,MO,MY,PK,SG,LK,TW,TH,UZ,VN"
+,Asia 20GB,0,Asia,2,20,30,esimg_20GB_30D_RAS_U,40,35,29.9,0,0,1,,,,3,"AU,CN,HK,ID,KZ,KR,MO,MY,PK,SG,LK,TW,TH,UZ,VN"
+,Asia 3GB,0,Asia,2,3,30,esimg_3GB_30D_RAS_U,10,8.5,6.3,0,0,1,,,,3,"AU,CN,HK,ID,KZ,KR,MO,MY,PK,SG,LK,TW,TH,UZ,VN"
+,Asia 5GB,0,Asia,2,5,30,esimg_5GB_30D_RAS_U,15,12,9.8,0,0,1,,,,3,"AU,CN,HK,ID,KZ,KR,MO,MY,PK,SG,LK,TW,TH,UZ,VN"
+,Australia 10GB,0,Oceania,2,10,30,esimgnr_10GB_30D_AU_U,25,20,#ERROR!,0,0,0,,,,3,AU
+,Australia 1GB,0,Oceania,2,1,7,esimgnr_1GB_7D_AU_U,5,3.2,#ERROR!,0,0,0,,,,3,AU
+,Australia 20GB,0,Oceania,2,20,30,esimgnr_20GB_30D_AU_U,45,35,#ERROR!,0,0,0,,,,3,AU
+,Australia 3GB,0,Oceania,2,3,30,esimgnr_3GB_30D_AU_U,10,7,#ERROR!,0,0,0,,,,3,AU
+,Australia 5GB,0,Oceania,2,5,30,esimgnr_5GB_30D_AU_U,15,12,#ERROR!,0,0,0,,,,3,AU
+,Austria 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_AT_U,25,15,#ERROR!,0,0,0,,,,3,AT
+,Austria 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_AT_U,5,2.5,#ERROR!,0,0,0,,,,3,AT
+,Austria 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_AT_U,35,25,#ERROR!,0,0,0,,,,3,AT
+,Austria 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_AT_U,10,6,#ERROR!,0,0,0,,,,3,AT
+,Austria 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_AT_U,15,10,#ERROR!,0,0,0,,,,3,AT
+,Azerbaijan 10GB,0,Middle East,2,10,30,esimgnr_10GB_30D_AZ_U,55,50,#ERROR!,0,0,0,,,,3,AZ
+,Azerbaijan 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_AZ_U,9.5,7.2,#ERROR!,0,0,0,,,,3,AZ
+,Azerbaijan 20GB,0,Middle East,2,20,30,esimgnr_20GB_30D_AZ_U,99,85,#ERROR!,0,0,0,,,,3,AZ
+,Azerbaijan 3GB,0,Middle East,2,3,30,esimgnr_3GB_30D_AZ_U,21.5,18,#ERROR!,0,0,0,,,,3,AZ
+,Azerbaijan 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_AZ_U,35,30,#ERROR!,0,0,0,,,,3,AZ
+,Bahrain 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_BH_U,12,10,#ERROR!,0,0,0,,,,3,BH
+,Bahrain 3GB,0,Middle East,2,3,30,esimgnr_3GB_30D_BH_U,35,30,#ERROR!,0,0,0,,,,3,BH
+,Bahrain 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_BH_U,43,40,#ERROR!,0,0,0,,,,3,BH
+,Bangladesh 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_BD_U,15,12,#ERROR!,0,0,0,,,,3,BD
+,Bangladesh 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_BD_U,35,30,#ERROR!,0,0,0,,,,3,BD
+,Bangladesh 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_BD_U,43,40,#ERROR!,0,0,0,,,,3,BD
+,Belgium 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_BE_U,25,15,#ERROR!,0,0,0,,,,3,BE
+,Belgium 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_BE_U,5,2.5,#ERROR!,0,0,0,,,,3,BE
+,Belgium 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_BE_U,35,25,#ERROR!,0,0,0,,,,3,BE
+,Belgium 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_BE_U,10,6,#ERROR!,0,0,0,,,,3,BE
+,Belgium 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_BE_U,15,10,#ERROR!,0,0,0,,,,3,BE
+,Bolivia 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_BO_U,75,65,#ERROR!,0,0,0,,,,3,BO
+,Bolivia 1GB,0,LATAM,2,1,7,esimgnr_1GB_7D_BO_U,12,9,#ERROR!,0,0,0,,,,3,BO
+,Bolivia 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_BO_U,27,23.5,#ERROR!,0,0,0,,,,3,BO
+,Bolivia 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_BO_U,40,36,#ERROR!,0,0,0,,,,3,BO
+,Bosnia and Herzegovina 10GB,0,Eastern Europe,2,10,30,esimgnr_10GB_30D_BA_U,55,50,#ERROR!,0,0,0,,,,3,BA
+,Bosnia and Herzegovina 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_BA_U,10,8,#ERROR!,0,0,0,,,,3,BA
+,Bosnia and Herzegovina 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_BA_U,25,22,#ERROR!,0,0,0,,,,3,BA
+,Bosnia and Herzegovina 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_BA_U,35,30,#ERROR!,0,0,0,,,,3,BA
+,Botswana 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_BW_U,12,10,#ERROR!,0,0,0,,,,3,BW
+,Botswana 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_BW_U,35,30,#ERROR!,0,0,0,,,,3,BW
+,Botswana 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_BW_U,43,40,#ERROR!,0,0,0,,,,3,BW
+,Brazil 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_BR_U,40,35,#ERROR!,0,0,0,,,,3,BR
+,Brazil 1GB,0,LATAM,2,1,7,esimgnr_1GB_7D_BR_U,7,4.25,#ERROR!,0,0,0,,,,3,BR
+,Brazil 20GB,0,LATAM,2,20,30,esimgnr_20GB_30D_BR_U,70,58,#ERROR!,0,0,0,,,,3,BR
+,Brazil 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_BR_U,15,12,#ERROR!,0,0,0,,,,3,BR
+,Brazil 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_BR_U,25,20,#ERROR!,0,0,0,,,,3,BR
+,Brunei Darussalam 10GB,0,Middle East,2,10,30,esimgnr_10GB_30D_BN_U,110,100,#ERROR!,0,0,0,,,,3,BN
+,Brunei Darussalam 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_BN_U,15,12.5,#ERROR!,0,0,0,,,,3,BN
+,Brunei Darussalam 3GB,0,Middle East,2,3,30,esimgnr_3GB_30D_BN_U,35,32,#ERROR!,0,0,0,,,,3,BN
+,Brunei Darussalam 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_BN_U,55,50,#ERROR!,0,0,0,,,,3,BN
+,Bulgaria 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_BG_U,25,15,#ERROR!,0,0,0,,,,3,BG
+,Bulgaria 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_BG_U,5,2.5,#ERROR!,0,0,0,,,,3,BG
+,Bulgaria 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_BG_U,35,25,#ERROR!,0,0,0,,,,3,BG
+,Bulgaria 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_BG_U,10,6,#ERROR!,0,0,0,,,,3,BG
+,Bulgaria 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_BG_U,15,10,#ERROR!,0,0,0,,,,3,BG
+,Cambodia 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_KH_U,15,12,#ERROR!,0,0,0,,,,3,KH
+,Cambodia 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_KH_U,35,30,#ERROR!,0,0,0,,,,3,KH
+,Cambodia 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_KH_U,45,40,#ERROR!,0,0,0,,,,3,KH
+,Cameroon 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_CM_U,105,95,#ERROR!,0,0,0,,,,3,CM
+,Cameroon 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_CM_U,15,12.5,#ERROR!,0,0,0,,,,3,CM
+,Cameroon 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_CM_U,32,30,#ERROR!,0,0,0,,,,3,CM
+,Cameroon 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_CM_U,54,50,#ERROR!,0,0,0,,,,3,CM
+,Canada 10GB,0,North America,2,10,30,esimgnr_10GB_30D_CA_U,40,35,#ERROR!,0,0,0,,,,3,CA
+,Canada 1GB,0,North America,2,1,7,esimgnr_1GB_7D_CA_U,7,4.25,#ERROR!,0,0,0,,,,3,CA
+,Canada 20GB,0,North America,2,20,30,esimgnr_20GB_30D_CA_U,70,58,#ERROR!,0,0,0,,,,3,CA
+,Canada 3GB,0,North America,2,3,30,esimgnr_3GB_30D_CA_U,15,12,#ERROR!,0,0,0,,,,3,CA
+,Canada 5GB,0,North America,2,5,30,esimgnr_5GB_30D_CA_U,25,20,#ERROR!,0,0,0,,,,3,CA
+,Canary Island 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_IC_U,25,15,#ERROR!,0,0,0,,,,3,IC
+,Canary Island 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_IC_U,5,2.5,#ERROR!,0,0,0,,,,3,IC
+,Canary Island 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_IC_U,35,25,#ERROR!,0,0,0,,,,3,IC
+,Canary Island 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_IC_U,10,6,#ERROR!,0,0,0,,,,3,IC
+,Canary Island 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_IC_U,15,10,#ERROR!,0,0,0,,,,3,IC
+,Central African Republic 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_CF_U,15,12,#ERROR!,0,0,0,,,,3,CF
+,Central African Republic 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_CF_U,35,31.5,#ERROR!,0,0,0,,,,3,CF
+,Central African Republic 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_CF_U,55,50,#ERROR!,0,0,0,,,,3,CF
+,Chad 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_TD_U,85,80,#ERROR!,0,0,0,,,,3,TD
+,Chad 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_TD_U,14,12,#ERROR!,0,0,0,,,,3,TD
+,Chad 20GB,0,Africa,2,20,30,esimgnr_20GB_30D_TD_U,160,150,#ERROR!,0,0,0,,,,3,TD
+,Chad 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_TD_U,30,28,#ERROR!,0,0,0,,,,3,TD
+,Chad 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_TD_U,50,45,#ERROR!,0,0,0,,,,3,TD
+,Chile 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_CL_U,40,35,#ERROR!,0,0,0,,,,3,CL
+,Chile 1GB,0,LATM,2,1,7,esimgnr_1GB_7D_CL_U,7,4.25,#ERROR!,0,0,0,,,,3,CL
+,Chile 20GB,0,LATM,2,20,30,esimgnr_20GB_30D_CL_U,70,58,#ERROR!,0,0,0,,,,3,CL
+,Chile 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_CL_U,15,12,#ERROR!,0,0,0,,,,3,CL
+,Chile 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_CL_U,25,20,#ERROR!,0,0,0,,,,3,CL
+,China 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_CN_U,50,48,#ERROR!,0,0,0,,,,3,CN
+,China 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_CN_U,7.5,7,#ERROR!,0,0,0,,,,3,CN
+,China 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_CN_U,90,84,#ERROR!,0,0,0,,,,3,CN
+,China 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_CN_U,20,18,#ERROR!,0,0,0,,,,3,CN
+,China 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_CN_U,30,26,#ERROR!,0,0,0,,,,3,CN
+,Colombia 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_CO_U,75,65,#ERROR!,0,0,0,,,,3,CO
+,Colombia 1GB,0,LATM,2,1,7,esimgnr_1GB_7D_CO_U,12,9,#ERROR!,0,0,0,,,,3,CO
+,Colombia 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_CO_U,27,23.5,#ERROR!,0,0,0,,,,3,CO
+,Colombia 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_CO_U,40,36,#ERROR!,0,0,0,,,,3,CO
+,Congo 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_CG_U,85,80,#ERROR!,0,0,0,,,,3,CG
+,Congo 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_CG_U,14,11,#ERROR!,0,0,0,,,,3,CG
+,Congo 20GB,0,Africa,2,20,30,esimgnr_20GB_30D_CG_U,160,150,#ERROR!,0,0,0,,,,3,CG
+,Congo 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_CG_U,35,30,#ERROR!,0,0,0,,,,3,CG
+,Congo 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_CG_U,50,45,#ERROR!,0,0,0,,,,3,CG
+,Costa Rica 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_CR_U,55,50,#ERROR!,0,0,0,,,,3,CR
+,Costa Rica 1GB,0,LATM,2,1,7,esimgnr_1GB_7D_CR_U,9.5,7.2,#ERROR!,0,0,0,,,,3,CR
+,Costa Rica 20GB,0,LATM,2,20,30,esimgnr_20GB_30D_CR_U,99,85,#ERROR!,0,0,0,,,,3,CR
+,Costa Rica 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_CR_U,21.5,18,#ERROR!,0,0,0,,,,3,CR
+,Costa Rica 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_CR_U,35,30,#ERROR!,0,0,0,,,,3,CR
+,Cote d'Ivoire 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_CI_U,15,12,#ERROR!,0,0,0,,,,3,CI
+,Cote d'Ivoire 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_CI_U,35,31.5,#ERROR!,0,0,0,,,,3,CI
+,Cote d'Ivoire 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_CI_U,55,50,#ERROR!,0,0,0,,,,3,CI
+,Croatia 10GB,0,Eastern Europe,2,10,30,esimgnr_10GB_30D_HR_U,25,15,#ERROR!,0,0,0,,,,3,HR
+,Croatia 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_HR_U,5,2.5,#ERROR!,0,0,0,,,,3,HR
+,Croatia 20GB,0,Eastern Europe,2,20,30,esimgnr_20GB_30D_HR_U,35,25,#ERROR!,0,0,0,,,,3,HR
+,Croatia 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_HR_U,10,6,#ERROR!,0,0,0,,,,3,HR
+,Croatia 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_HR_U,15,10,#ERROR!,0,0,0,,,,3,HR
+,Cyprus 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_CY_U,25,15,#ERROR!,0,0,0,,,,3,CY
+,Cyprus 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_CY_U,5,2.5,#ERROR!,0,0,0,,,,3,CY
+,Cyprus 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_CY_U,35,25,#ERROR!,0,0,0,,,,3,CY
+,Cyprus 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_CY_U,10,6,#ERROR!,0,0,0,,,,3,CY
+,Cyprus 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_CY_U,15,10,#ERROR!,0,0,0,,,,3,CY
+,Czech Republic 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_CZ_U,25,15,#ERROR!,0,0,0,,,,3,CZ
+,Czech Republic 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_CZ_U,5,2.5,#ERROR!,0,0,0,,,,3,CZ
+,Czech Republic 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_CZ_U,35,25,#ERROR!,0,0,0,,,,3,CZ
+,Czech Republic 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_CZ_U,10,6,#ERROR!,0,0,0,,,,3,CZ
+,Czech Republic 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_CZ_U,15,10,#ERROR!,0,0,0,,,,3,CZ
+,Denmark 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_DK_U,25,15,#ERROR!,0,0,0,,,,3,DK
+,Denmark 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_DK_U,5,2.5,#ERROR!,0,0,0,,,,3,DK
+,Denmark 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_DK_U,35,25,#ERROR!,0,0,0,,,,3,DK
+,Denmark 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_DK_U,10,6,#ERROR!,0,0,0,,,,3,DK
+,Denmark 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_DK_U,15,10,#ERROR!,0,0,0,,,,3,DK
+,DRC 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_CD_U,14,12,#ERROR!,0,0,0,,,,3,CD
+,DRC 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_CD_U,34,30,#ERROR!,0,0,0,,,,3,CD
+,DRC 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_CD_U,52,48,#ERROR!,0,0,0,,,,3,CD
+,Ecuador 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_EC_U,55,50,#ERROR!,0,0,0,,,,3,EC
+,Ecuador 1GB,0,LATM,2,1,7,esimgnr_1GB_7D_EC_U,9.5,7.2,#ERROR!,0,0,0,,,,3,EC
+,Ecuador 20GB,0,LATM,2,20,30,esimg_20GB_30D_EC_U,99,85,0,0,0,0,,,,3,EC
+,Ecuador 20GB,0,LATM,2,20,30,esimgnr_20GB_30D_EC_U,99,85,#ERROR!,0,0,0,,,,3,EC
+,Ecuador 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_EC_U,21.5,18,#ERROR!,0,0,0,,,,3,EC
+,Ecuador 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_EC_U,35,30,#ERROR!,0,0,0,,,,3,EC
+,Egypt 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_EG_U,55,50,#ERROR!,0,0,0,,,,3,EG
+,Egypt 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_EG_U,9.5,7.2,#ERROR!,0,0,0,,,,3,EG
+,Egypt 20GB,0,Africa,2,20,30,esimgnr_20GB_30D_EG_U,60,55,#ERROR!,0,0,0,,,,3,EG
+,Egypt 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_EG_U,20,15,#ERROR!,0,0,0,,,,3,EG
+,Egypt 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_EG_U,35,30,#ERROR!,0,0,0,,,,3,EG
+,El Salvador 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_SV_U,55,50,#ERROR!,0,0,0,,,,3,SV
+,El Salvador 1GB,0,LATM,2,1,7,esimgnr_1GB_7D_SV_U,9.5,7.2,#ERROR!,0,0,0,,,,3,SV
+,El Salvador 20GB,0,LATM,2,20,30,esimgnr_20GB_30D_SV_U,99,85,#ERROR!,0,0,0,,,,3,SV
+,El Salvador 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_SV_U,21.5,18,#ERROR!,0,0,0,,,,3,SV
+,El Salvador 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_SV_U,35,30,#ERROR!,0,0,0,,,,3,SV
+,Estonia 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_EE_U,25,15,#ERROR!,0,0,0,,,,3,EE
+,Estonia 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_EE_U,5,2.5,#ERROR!,0,0,0,,,,3,EE
+,Estonia 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_EE_U,35,25,#ERROR!,0,0,0,,,,3,EE
+,Estonia 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_EE_U,10,6,#ERROR!,0,0,0,,,,3,EE
+,Estonia 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_EE_U,15,10,#ERROR!,0,0,0,,,,3,EE
+,Eswatini 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_SZ_U,15,12,#ERROR!,0,0,0,,,,3,SZ
+,Eswatini 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_SZ_U,32,28,#ERROR!,0,0,0,,,,3,SZ
+,Eswatini 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_SZ_U,45,40,#ERROR!,0,0,0,,,,3,SZ
+,Europe 10GB,0,Europe,2,10,30,esimg_10GB_30D_REUP_U,17.5,14,9.8,0,0,1,,,,3,"AX,AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,DE,GR,HU,IS,IE,IT,LV,LI,LT,LU,MT,NL,NO,PL,PT,RO,SK,SI,ES,SE,CH,TR,UA,GB"
+,Europe 1GB,0,Europe,2,1,7,esimg_1GB_7D_REUP_U,5,3.25,1.7,0,0,1,,,,3,"AX,AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,DE,GR,HU,IS,IE,IT,LV,LI,LT,LU,MT,NL,NO,PL,PT,RO,SK,SI,ES,SE,CH,TR,UA,GB"
+,Europe 20GB,0,Europe,2,20,30,esimg_20GB_30D_REUP_U,25,22.5,17.3,0,0,1,,,,3,"AX,AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,DE,GR,HU,IS,IE,IT,LV,LI,LT,LU,MT,NL,NO,PL,PT,RO,SK,SI,ES,SE,CH,TR,UA,GB"
+,Europe 3GB,0,Europe,2,3,30,esimg_3GB_30D_REUP_U,10,6,4,0,0,1,,,,3,"AX,AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,DE,GR,HU,IS,IE,IT,LV,LI,LT,LU,MT,NL,NO,PL,PT,RO,SK,SI,ES,SE,CH,TR,UA,GB"
+,Europe 5GB,0,Europe,2,5,30,esimg_5GB_30D_REUP_U,15,8.5,5.8,0,0,1,,,,3,"AX,AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,DE,GR,HU,IS,IE,IT,LV,LI,LT,LU,MT,NL,NO,PL,PT,RO,SK,SI,ES,SE,CH,TR,UA,GB"
+,Finland 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_FI_U,25,15,#ERROR!,0,0,0,,,,3,FI
+,Finland 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_FI_U,5,2.5,#ERROR!,0,0,0,,,,3,FI
+,Finland 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_FI_U,35,25,#ERROR!,0,0,0,,,,3,FI
+,Finland 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_FI_U,10,6,#ERROR!,0,0,0,,,,3,FI
+,Finland 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_FI_U,15,10,#ERROR!,0,0,0,,,,3,FI
+,France 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_FR_U,25,15,#ERROR!,0,0,0,,,,3,FR
+,France 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_FR_U,5,2.5,#ERROR!,0,0,0,,,,3,FR
+,France 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_FR_U,35,25,#ERROR!,0,0,0,,,,3,FR
+,France 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_FR_U,10,6,#ERROR!,0,0,0,,,,3,FR
+,France 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_FR_U,15,10,#ERROR!,0,0,0,,,,3,FR
+,French Guiana 10GB,0,Caribbean,2,10,30,esimgnr_10GB_30D_GF_U,55,47,#ERROR!,0,0,0,,,,3,GF
+,French Guiana 1GB,0,Caribbean,2,1,7,esimgnr_1GB_7D_GF_U,10,7.5,#ERROR!,0,0,0,,,,3,GF
+,French Guiana 20GB,0,Caribbean,2,20,30,esimgnr_20GB_30D_GF_U,80,75,#ERROR!,0,0,0,,,,3,GF
+,French Guiana 3GB,0,Caribbean,2,3,30,esimgnr_3GB_30D_GF_U,21.5,18,#ERROR!,0,0,0,,,,3,GF
+,French Guiana 5GB,0,Caribbean,2,5,30,esimgnr_5GB_30D_GF_U,35,30,#ERROR!,0,0,0,,,,3,GF
+,Gabon 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_GA_U,12,10,#ERROR!,0,0,0,,,,3,GA
+,Gabon 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_GA_U,32,28,#ERROR!,0,0,0,,,,3,GA
+,Gabon 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_GA_U,45,40,#ERROR!,0,0,0,,,,3,GA
+,Georgia 1GB,0,Eastern Europe,2,1,7,esimgnr_1GB_7D_GE_U,25,20,#ERROR!,0,0,0,,,,3,GE
+,Georgia 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_GE_U,50,45,#ERROR!,0,0,0,,,,3,GE
+,Georgia 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_GE_U,80,75,#ERROR!,0,0,0,,,,3,GE
+,Germany 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_DE_U,25,15,#ERROR!,0,0,0,,,,3,DE
+,Germany 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_DE_U,5,2.5,#ERROR!,0,0,0,,,,3,DE
+,Germany 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_DE_U,35,25,#ERROR!,0,0,0,,,,3,DE
+,Germany 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_DE_U,10,6,#ERROR!,0,0,0,,,,3,DE
+,Germany 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_DE_U,15,10,#ERROR!,0,0,0,,,,3,DE
+,Ghana 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_GH_U,12,10,#ERROR!,0,0,0,,,,3,GH
+,Ghana 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_GH_U,32,30,#ERROR!,0,0,0,,,,3,GH
+,Ghana 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_GH_U,45,40,#ERROR!,0,0,0,,,,3,GH
+,Gibraltar (UK) 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_GI_U,50,45,#ERROR!,0,0,0,,,,3,GI
+,Gibraltar (UK) 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_GI_U,50,45,#ERROR!,0,0,0,,,,3,GI
+,Gibraltar (UK) 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_GI_U,23,18,#ERROR!,0,0,0,,,,3,GI
+,Gibraltar (UK) 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_GI_U,25,20,#ERROR!,0,0,0,,,,3,GI
+,Gibraltar (UK) 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_GI_U,30,25,#ERROR!,0,0,0,,,,3,GI
+,Gibraltar (UK) 5GB,0,Europe,2,5,30,esimg_5GB_30D_GI_U,15,10,0,0,0,0,,,,3,GI
+,Gibraltar (UK) 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_GI_U,30,25,#ERROR!,0,0,0,,,,3,GI
+,Gibraltar 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_GI_U,10,7.5,#ERROR!,0,0,0,,,,3,GI
+,Global Plan 1GB,1,GLOBAL,2,1,7,esimg_1GB_7D_RGB_U,20,17.5,13.8,0,0,0,,,,3,"AX,AL,DZ,AD,AR,AM,AU,AT,AZ,BH,BD,BY,BE,BO,BA,BW,BR,BN,BG,KH,CM,CA,CF,TD,CL,CN,CO,CG,CD,CR,CI,HR,CY,CZ,DK,DO,EC,EG,SV,EE,FI,FR,GA,DE,GH,GI,GR,GL,GU,GT,GG,GW,HK,HU,IS,IN,ID,IQ,IE,IL,IT,JP,JE,JO,KZ,KE,KR,KW,KG,LA,LV,LR,LI,LT,LU,MO,MK,MG,MW,MY,ML,MT,IM,MX,MD,MC,MN,ME,MA,MM,NL,NZ,NI,NE,NG,NO,OM,PK,PA,PY,PE,PH,PL,PT,QA,RE,RO,RU,SA,SN,RS,SC,SG,SK,SI,ZA,GS,ES,LK,SZ,SE,CH,TW,TJ,TZ,TH,TN,TR,UG,UA,AE,GB,US,UY,UZ,VN,YE,ZM,XK"
+,Global Plan 3GB,1,GLOBAL,2,3,30,esimg_3GB_30D_RGB_U,45,42,34.5,0,0,0,,,,3,"AX,AL,DZ,AD,AR,AM,AU,AT,AZ,BH,BD,BY,BE,BO,BA,BW,BR,BN,BG,KH,CM,CA,CF,TD,CL,CN,CO,CG,CD,CR,CI,HR,CY,CZ,DK,DO,EC,EG,SV,EE,FI,FR,GA,DE,GH,GI,GR,GL,GU,GT,GG,GW,HK,HU,IS,IN,ID,IQ,IE,IL,IT,JP,JE,JO,KZ,KE,KR,KW,KG,LA,LV,LR,LI,LT,LU,MO,MK,MG,MW,MY,ML,MT,IM,MX,MD,MC,MN,ME,MA,MM,NL,NZ,NI,NE,NG,NO,OM,PK,PA,PY,PE,PH,PL,PT,QA,RE,RO,RU,SA,SN,RS,SC,SG,SK,SI,ZA,GS,ES,LK,SZ,SE,CH,TW,TJ,TZ,TH,TN,TR,UG,UA,AE,GB,US,UY,UZ,VN,YE,ZM,XK"
+,Global Plan 5GB,1,GLOBAL,2,5,30,esimg_5GB_30D_RGB_U,75,60,51.8,0,0,0,,,,3,"AX,AL,DZ,AD,AR,AM,AU,AT,AZ,BH,BD,BY,BE,BO,BA,BW,BR,BN,BG,KH,CM,CA,CF,TD,CL,CN,CO,CG,CD,CR,CI,HR,CY,CZ,DK,DO,EC,EG,SV,EE,FI,FR,GA,DE,GH,GI,GR,GL,GU,GT,GG,GW,HK,HU,IS,IN,ID,IQ,IE,IL,IT,JP,JE,JO,KZ,KE,KR,KW,KG,LA,LV,LR,LI,LT,LU,MO,MK,MG,MW,MY,ML,MT,IM,MX,MD,MC,MN,ME,MA,MM,NL,NZ,NI,NE,NG,NO,OM,PK,PA,PY,PE,PH,PL,PT,QA,RE,RO,RU,SA,SN,RS,SC,SG,SK,SI,ZA,GS,ES,LK,SZ,SE,CH,TW,TJ,TZ,TH,TN,TR,UG,UA,AE,GB,US,UY,UZ,VN,YE,ZM,XK"
+,Greece 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_GR_U,25,15,#ERROR!,0,0,0,,,,3,GR
+,Greece 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_GR_U,5,2.5,#ERROR!,0,0,0,,,,3,GR
+,Greece 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_GR_U,35,25,#ERROR!,0,0,0,,,,3,GR
+,Greece 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_GR_U,10,6,#ERROR!,0,0,0,,,,3,GR
+,Greece 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_GR_U,15,10,#ERROR!,0,0,0,,,,3,GR
+,Guadeloupe 10GB,0,Caribbean,2,10,30,esimgnr_10GB_30D_GP_U,55,47,#ERROR!,0,0,0,,,,3,GP
+,Guadeloupe 1GB,0,Caribbean,2,1,7,esimgnr_1GB_7D_GP_U,10,7.5,#ERROR!,0,0,0,,,,3,GP
+,Guadeloupe 20GB,0,Caribbean,2,20,30,esimgnr_20GB_30D_GP_U,80,75,#ERROR!,0,0,0,,,,3,GP
+,Guadeloupe 3GB,0,Caribbean,2,3,30,esimgnr_3GB_30D_GP_U,21.5,18,#ERROR!,0,0,0,,,,3,GP
+,Guadeloupe 5GB,0,Caribbean,2,5,30,esimgnr_5GB_30D_GP_U,35,30,#ERROR!,0,0,0,,,,3,GP
+,Guatemala 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_GT_U,61,60.9,#ERROR!,0,0,0,,,,3,GT
+,Guatemala 1GB,0,LATM,2,1,7,esimgnr_1GB_7D_GT_U,12,9,#ERROR!,0,0,0,,,,3,GT
+,Guatemala 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_GT_U,27,23.5,#ERROR!,0,0,0,,,,3,GT
+,Guatemala 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_GT_U,40,36,#ERROR!,0,0,0,,,,3,GT
+,Guinea Bissau 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_GW_U,15,12,#ERROR!,0,0,0,,,,3,GW
+,Guinea Bissau 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_GW_U,35,31.5,#ERROR!,0,0,0,,,,3,GW
+,Guinea Bissau 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_GW_U,55,50,#ERROR!,0,0,0,,,,3,GW
+,Guinea Bissau 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_GW_U,45,40,#ERROR!,0,0,0,,,,3,GW
+,Hawaii 3GB,0,America,2,3,30,esimgnr_3GB_30D_US-HI_U,10,7,#ERROR!,0,0,0,,,,3,US-HI
+,Hawaii 10GB,0,America,2,10,30,esimgnr_10GB_30D_US-HI_U,25,20,#ERROR!,0,0,0,,,,3,US-HI
+,Hawaii 1GB,0,America,2,1,7,esimgnr_1GB_7D_US-HI_U,5,3.2,#ERROR!,0,0,0,,,,3,US-HI
+,Hawaii 20GB,0,America,2,20,30,esimgnr_20GB_30D_US-HI_U,45,35,#ERROR!,0,0,0,,,,3,US-HI
+,Hawaii 5GB,0,America,2,5,30,esimgnr_5GB_30D_US-HI_U,15,12,#ERROR!,0,0,0,,,,3,US-HI
+,Hong Kong 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_HK_U,25,15,#ERROR!,0,0,0,,,,3,HK
+,Hong Kong 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_HK_U,5,3.5,#ERROR!,0,0,0,,,,3,HK
+,Hong Kong 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_HK_U,45,35,#ERROR!,0,0,0,,,,3,HK
+,Hong Kong 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_HK_U,10,7,#ERROR!,0,0,0,,,,3,HK
+,Hong Kong 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_HK_U,15,10,#ERROR!,0,0,0,,,,3,HK
+,Hungary 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_HU_U,25,15,#ERROR!,0,0,0,,,,3,HU
+,Hungary 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_HU_U,5,2.5,#ERROR!,0,0,0,,,,3,HU
+,Hungary 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_HU_U,35,25,#ERROR!,0,0,0,,,,3,HU
+,Hungary 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_HU_U,10,6,#ERROR!,0,0,0,,,,3,HU
+,Hungary 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_HU_U,15,10,#ERROR!,0,0,0,,,,3,HU
+,Iceland 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_IS_U,25,15,#ERROR!,0,0,0,,,,3,IS
+,Iceland 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_IS_U,5,2.5,#ERROR!,0,0,0,,,,3,IS
+,Iceland 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_IS_U,35,25,#ERROR!,0,0,0,,,,3,IS
+,Iceland 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_IS_U,10,6,#ERROR!,0,0,0,,,,3,IS
+,Iceland 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_IS_U,15,10,#ERROR!,0,0,0,,,,3,IS
+,India 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_IN_U,45,40,#ERROR!,0,0,0,,,,3,IN
+,India 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_IN_U,9,7.5,#ERROR!,0,0,0,,,,3,IN
+,India 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_IN_U,80,75,#ERROR!,0,0,0,,,,3,IN
+,India 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_IN_U,20,18,#ERROR!,0,0,0,,,,3,IN
+,India 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_IN_U,28,25,#ERROR!,0,0,0,,,,3,IN
+,Indonesia 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_ID_U,25,20,#ERROR!,0,0,0,,,,3,ID
+,Indonesia 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_ID_U,5,3,#ERROR!,0,0,0,,,,3,ID
+,Indonesia 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_ID_U,45,35,#ERROR!,0,0,0,,,,3,ID
+,Indonesia 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_ID_U,10,7,#ERROR!,0,0,0,,,,3,ID
+,Indonesia 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_ID_U,15,12,#ERROR!,0,0,0,,,,3,ID
+,Iraq 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_IQ_U,12,10,#ERROR!,0,0,0,,,,3,IQ
+,Ireland 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_IE_U,25,15,#ERROR!,0,0,0,,,,3,IE
+,Ireland 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_IE_U,5,2.5,#ERROR!,0,0,0,,,,3,IE
+,Ireland 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_IE_U,35,25,#ERROR!,0,0,0,,,,3,IE
+,Ireland 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_IE_U,10,6,#ERROR!,0,0,0,,,,3,IE
+,Ireland 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_IE_U,15,10,#ERROR!,0,0,0,,,,3,IE
+,Israel 10GB,0,Middle East,2,10,30,esimgnr_10GB_30D_IL_U,30,22.5,#ERROR!,0,0,0,,,,3,IL
+,Israel 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_IL_U,5,3.5,#ERROR!,0,0,0,,,,3,IL
+,Israel 20GB,0,Middle East,2,20,30,esimgnr_20GB_30D_IL_U,40,35,#ERROR!,0,0,0,,,,3,IL
+,Israel 3GB,0,Middle East,2,3,30,esimgnr_3GB_30D_IL_U,12.5,8.5,#ERROR!,0,0,0,,,,3,IL
+,Israel 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_IL_U,20,15,#ERROR!,0,0,0,,,,3,IL
+,Italy 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_IT_U,25,15,#ERROR!,0,0,0,,,,3,IT
+,Italy 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_IT_U,5,2.5,#ERROR!,0,0,0,,,,3,IT
+,Italy 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_IT_U,35,25,#ERROR!,0,0,0,,,,3,IT
+,Italy 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_IT_U,10,6,#ERROR!,0,0,0,,,,3,IT
+,Italy 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_IT_U,15,10,#ERROR!,0,0,0,,,,3,IT
+,Japan 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_JP_U,7.5,6.5,#ERROR!,0,0,0,,,,3,JP
+,Japan 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_JP_U,15,13.4,#ERROR!,0,0,0,,,,3,JP
+,Japan 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_JP_U,22.5,21.2,#ERROR!,0,0,0,,,,3,JP
+,Jordan 10GB,0,Middle East,2,10,30,esimgnr_10GB_30D_JO_U,32,28,#ERROR!,0,0,0,,,,3,JO
+,Jordan 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_JO_U,7,4.25,#ERROR!,0,0,0,,,,3,JO
+,Jordan 20GB,0,Middle East,2,20,30,esimgnr_20GB_30D_JO_U,48,45,#ERROR!,0,0,0,,,,3,JO
+,Jordan 3GB,0,Middle East,2,3,30,esimgnr_3GB_30D_JO_U,15,12,#ERROR!,0,0,0,,,,3,JO
+,Jordan 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_JO_U,25,20,#ERROR!,0,0,0,,,,3,JO
+,Kazakhstan 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_KZ_U,30,22.5,#ERROR!,0,0,0,,,,3,KZ
+,Kazakhstan 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_KZ_U,5,3.5,#ERROR!,0,0,0,,,,3,KZ
+,Kazakhstan 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_KZ_U,45,40,#ERROR!,0,0,0,,,,3,KZ
+,Kazakhstan 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_KZ_U,12.5,8.5,#ERROR!,0,0,0,,,,3,KZ
+,Kazakhstan 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_KZ_U,20,15,#ERROR!,0,0,0,,,,3,KZ
+,Kenya 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_KE_U,65,60,#ERROR!,0,0,0,,,,3,KE
+,Kenya 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_KE_U,9.5,8,#ERROR!,0,0,0,,,,3,KE
+,Kenya 20GB,0,Africa,2,20,30,esimgnr_20GB_30D_KE_U,120,110,#ERROR!,0,0,0,,,,3,KE
+,Kenya 20GB,0,Africa,2,20,30,esimgnr_20GB_30D_KE_U,120,110,#ERROR!,0,0,0,,,,3,KE
+,Kenya 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_KE_U,25,22,#ERROR!,0,0,0,,,,3,KE
+,Kenya 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_KE_U,40,35,#ERROR!,0,0,0,,,,3,KE
+,Korea 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_KR_U,30,22.5,#ERROR!,0,0,0,,,,3,KR
+,Korea 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_KR_U,5,3.5,#ERROR!,0,0,0,,,,3,KR
+,Korea 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_KR_U,45,40,#ERROR!,0,0,0,,,,3,KR
+,Korea 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_KR_U,12.5,8.5,#ERROR!,0,0,0,,,,3,KR
+,Korea 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_KR_U,20,15,#ERROR!,0,0,0,,,,3,KR
+,Kosovo 1GB,0,Eastern Europe,2,1,7,esimgnr_1GB_7D_XK_U,15,12,#ERROR!,0,0,0,,,,3,XK
+,Kosovo 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_XK_U,35,30,#ERROR!,0,0,0,,,,3,XK
+,Kosovo 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_XK_U,50,45,#ERROR!,0,0,0,,,,3,XK
+,Kuwait 10GB,0,Middle East,2,10,30,esimgnr_10GB_30D_KW_U,40,35,#ERROR!,0,0,0,,,,3,KW
+,Kuwait 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_KW_U,7,4.25,#ERROR!,0,0,0,,,,3,KW
+,Kuwait 20GB,0,Middle East,2,20,30,esimgnr_20GB_30D_KW_U,70,58,#ERROR!,0,0,0,,,,3,KW
+,Kuwait 3GB,0,Middle East,2,3,30,esimgnr_3GB_30D_KW_U,15,12,#ERROR!,0,0,0,,,,3,KW
+,Kuwait 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_KW_U,25,20,#ERROR!,0,0,0,,,,3,KW
+,Kyrgyzstan 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_KG_U,15,12,#ERROR!,0,0,0,,,,3,KG
+,Kyrgyzstan 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_KG_U,32,28,#ERROR!,0,0,0,,,,3,KG
+,Kyrgyzstan 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_KG_U,45,42,#ERROR!,0,0,0,,,,3,KG
+,Laos 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_LA_U,15,12,#ERROR!,0,0,0,,,,3,LA
+,LATAM 10GB,0,LATM,2,10,30,esimg_10GB_30D_RLA_U,65,60,51.8,0,0,1,,,,3,"AR,BO,BR,CO,CR,EC,SV,GT,NI,PA,PY,PE,UY"
+,LATAM 1GB,0,LATM,2,1,7,esimg_1GB_30D_RLA_U,12.5,10,7.5,0,0,1,,,,3,"AR,BO,BR,CO,CR,EC,SV,GT,NI,PA,PY,PE,UY"
+,LATAM 3GB,0,LATM,2,3,30,esimg_3GB_30D_RLA_U,30,23,19.6,0,0,1,,,,3,"AR,BO,BR,CO,CR,EC,SV,GT,NI,PA,PY,PE,UY"
+,LATAM 5GB,0,LATM,2,5,30,esimg_5GB_30D_RLA_U,40,35,28.8,0,0,1,,,,3,"AR,BO,BR,CO,CR,EC,SV,GT,NI,PA,PY,PE,UY"
+,Latvia 10GB,0,Eastern Europe,2,10,30,esimgnr_10GB_30D_LV_U,25,15,#ERROR!,0,0,0,,,,3,LV
+,Latvia 1GB,0,Eastern Europe,2,1,7,esimgnr_1GB_7D_LV_U,5,2.5,#ERROR!,0,0,0,,,,3,LV
+,Latvia 20GB,0,Eastern Europe,2,20,30,esimgnr_20GB_30D_LV_U,35,25,#ERROR!,0,0,0,,,,3,LV
+,Latvia 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_LV_U,10,6,#ERROR!,0,0,0,,,,3,LV
+,Latvia 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_LV_U,15,10,#ERROR!,0,0,0,,,,3,LV
+,Liberia 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_LR_U,15,12,#ERROR!,0,0,0,,,,3,LR
+,Liberia 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_LR_U,35,31.5,#ERROR!,0,0,0,,,,3,LR
+,Liberia 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_LR_U,45,40,#ERROR!,0,0,0,,,,3,LR
+,Liechtenste 1GBin,0,Europe,2,1,7,esimgnr_1GB_7D_LI_U,5,2.5,#ERROR!,0,0,0,,,,3,LI
+,Liechtenstein 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_LI_U,25,15,#ERROR!,0,0,0,,,,3,LI
+,Liechtenstein 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_LI_U,30,25,#ERROR!,0,0,0,,,,3,LI
+,Liechtenstein 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_LI_U,10,6,#ERROR!,0,0,0,,,,3,LI
+,Liechtenstein 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_LI_U,15,10,#ERROR!,0,0,0,,,,3,LI
+,Lithuania 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_LT_U,25,15,#ERROR!,0,0,0,,,,3,LT
+,Lithuania 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_LT_U,5,2.5,#ERROR!,0,0,0,,,,3,LT
+,Lithuania 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_LT_U,35,25,#ERROR!,0,0,0,,,,3,LT
+,Lithuania 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_LT_U,10,6,#ERROR!,0,0,0,,,,3,LT
+,Lithuania 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_LT_U,15,10,#ERROR!,0,0,0,,,,3,LT
+,Luxembourg 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_LU_U,25,15,#ERROR!,0,0,0,,,,3,LU
+,Luxembourg 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_LU_U,5,2.5,#ERROR!,0,0,0,,,,3,LU
+,Luxembourg 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_LU_U,35,25,#ERROR!,0,0,0,,,,3,LU
+,Luxembourg 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_LU_U,10,6,#ERROR!,0,0,0,,,,3,LU
+,Luxembourg 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_LU_U,15,10,#ERROR!,0,0,0,,,,3,LU
+,Macao 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_MO_U,5,3.5,#ERROR!,0,0,0,,,,3,MO
+,Macau 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_MO_U,25,15,#ERROR!,0,0,0,,,,3,MO
+,Macau 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_MO_U,25,20,#ERROR!,0,0,0,,,,3,MO
+,Macau 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_MO_U,45,35,#ERROR!,0,0,0,,,,3,MO
+,Macau 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_MO_U,10,6,#ERROR!,0,0,0,,,,3,MO
+,Macau 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_MO_U,10,7,#ERROR!,0,0,0,,,,3,MO
+,Macau 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_MO_U,15,10,#ERROR!,0,0,0,,,,3,MO
+,Macau 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_MO_U,15,12,#ERROR!,0,0,0,,,,3,MO
+,Macedonia 10GB,0,Eastern Europe,2,10,30,esimgnr_10GB_30D_MK_U,40,35,#ERROR!,0,0,0,,,,3,MK
+,Macedonia 1GB,0,Eastern Europe,2,1,7,esimgnr_1GB_7D_MK_U,7,4.25,#ERROR!,0,0,0,,,,3,MK
+,Macedonia 20GB,0,Eastern Europe,2,20,30,esimgnr_20GB_30D_MK_U,55,48,#ERROR!,0,0,0,,,,3,MK
+,Macedonia 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_MK_U,15,12,#ERROR!,0,0,0,,,,3,MK
+,Macedonia 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_MK_U,25,20,#ERROR!,0,0,0,,,,3,MK
+,Madagascar 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_MG_U,55,50,#ERROR!,0,0,0,,,,3,MG
+,Madagascar 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_MG_U,9.5,7.2,#ERROR!,0,0,0,,,,3,MG
+,Madagascar 20GB,0,Africa,2,20,30,esimgnr_20GB_30D_MG_U,99,85,#ERROR!,0,0,0,,,,3,MG
+,Madagascar 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_MG_U,21.5,18,#ERROR!,0,0,0,,,,3,MG
+,Madagascar 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_MG_U,55,50,#ERROR!,0,0,0,,,,3,MG
+,Malawi 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_MW_U,15,12,#ERROR!,0,0,0,,,,3,MW
+,Malawi 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_MW_U,35,31.5,#ERROR!,0,0,0,,,,3,MW
+,Malawi 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_MW_U,55,50,#ERROR!,0,0,0,,,,3,MW
+,Malaysia 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_MY_U,30,22.5,#ERROR!,0,0,0,,,,3,MY
+,Malaysia 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_MY_U,5,3.5,#ERROR!,0,0,0,,,,3,MY
+,Malaysia 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_MY_U,45,40,#ERROR!,0,0,0,,,,3,MY
+,Malaysia 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_MY_U,12.5,8.5,#ERROR!,0,0,0,,,,3,MY
+,Malaysia 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_MY_U,20,15,#ERROR!,0,0,0,,,,3,MY
+,Mali 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_ML_U,15,12,#ERROR!,0,0,0,,,,3,ML
+,Mali 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_ML_U,35,31.5,#ERROR!,0,0,0,,,,3,ML
+,Mali 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_ML_U,45,40,#ERROR!,0,0,0,,,,3,ML
+,Malta 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_MT_U,25,15,#ERROR!,0,0,0,,,,3,MT
+,Malta 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_MT_U,5,2.5,#ERROR!,0,0,0,,,,3,MT
+,Malta 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_MT_U,35,25,#ERROR!,0,0,0,,,,3,MT
+,Malta 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_MT_U,10,6,#ERROR!,0,0,0,,,,3,MT
+,Malta 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_MT_U,15,10,#ERROR!,0,0,0,,,,3,MT
+,Martinique 1GB,0,Caribbean,2,1,7,esimgnr_1GB_7D_MQ_U,10,7.5,#ERROR!,0,0,0,,,,3,MQ
+,Mexico 10GB,0,North America,2,10,30,esimgnr_10GB_30D_MX_U,40,35,#ERROR!,0,0,0,,,,3,MX
+,Mexico 1GB,0,North America,2,1,7,esimgnr_1GB_7D_MX_U,7,4.25,#ERROR!,0,0,0,,,,3,MX
+,Mexico 20GB,0,North America,2,20,30,esimgnr_20GB_30D_MX_U,70,58,#ERROR!,0,0,0,,,,3,MX
+,Mexico 3GB,0,North America,2,3,30,esimgnr_3GB_30D_MX_U,15,12,#ERROR!,0,0,0,,,,3,MX
+,Mexico 5GB,0,North America,2,5,30,esimgnr_5GB_30D_MX_U,25,20,#ERROR!,0,0,0,,,,3,MX
+,Middle East 10GB,0,Middle East,2,10,30,esimg_10GB_30D_RME_U,70,65,54.98,0,0,1,,,,3,"IL,JO,KW,OM,SA,AE"
+,Middle East 1GB,0,Middle East,2,1,7,esimg_1GB_7D_RME_U,10,8,6.71,0,0,1,,,,3,"IL,JO,KW,OM,SA,AE"
+,Middle East 20GB,0,Middle East,2,20,30,esimg_20GB_30D_RME_U,120,110,98.77,0,0,1,,,,3,"IL,JO,KW,OM,SA,AE"
+,Middle East 3GB,0,Middle East,2,3,30,esimg_3GB_30D_RME_U,24,21,18.15,0,0,1,,,,3,"IL,JO,KW,OM,SA,AE"
+,Middle East 5GB,0,Middle East,2,5,30,esimg_5GB_30D_RME_U,40,35,29.95,0,0,1,,,,3,"IL,JO,KW,OM,SA,AE"
+,Moldova 1GB,0,Eastern Europe,2,1,7,esimgnr_1GB_7D_MD_U,10,8,#ERROR!,0,0,0,,,,3,MD
+,Moldova 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_MD_U,25,22,#ERROR!,0,0,0,,,,3,MD
+,Moldova 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_MD_U,35,30,#ERROR!,0,0,0,,,,3,MD
+,Mongolia 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_MN_U,22,20,#ERROR!,0,0,0,,,,3,MN
+,Mongolia 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_MN_U,50,45,#ERROR!,0,0,0,,,,3,MN
+,Mongolia 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_MN_U,80,75,#ERROR!,0,0,0,,,,3,MN
+,Montenegro 1GB,0,Eastern Europe,2,1,7,esimgnr_1GB_7D_ME_U,10,8,#ERROR!,0,0,0,,,,3,ME
+,Montenegro 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_ME_U,25,22,#ERROR!,0,0,0,,,,3,ME
+,Montenegro 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_ME_U,35,30,#ERROR!,0,0,0,,,,3,ME
+,Morocco 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_MA_U,65,60.9,#ERROR!,0,0,0,,,,3,MA
+,Morocco 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_MA_U,12,9,#ERROR!,0,0,0,,,,3,MA
+,Morocco 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_MA_U,27,23.5,#ERROR!,0,0,0,,,,3,MA
+,Morocco 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_MA_U,32,30,#ERROR!,0,0,0,,,,3,MA
+,Netherlands 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_NL_U,25,15,#ERROR!,0,0,0,,,,3,NL
+,Netherlands 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_NL_U,5,2.5,#ERROR!,0,0,0,,,,3,NL
+,Netherlands 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_NL_U,35,25,#ERROR!,0,0,0,,,,3,NL
+,Netherlands 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_NL_U,10,6,#ERROR!,0,0,0,,,,3,NL
+,Netherlands 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_NL_U,15,10,#ERROR!,0,0,0,,,,3,NL
+,New Zealand 10GB,0,Oceania,2,10,30,esimgnr_10GB_30D_NZ_U,30,25,#ERROR!,0,0,0,,,,3,NZ
+,New Zealand 1GB,0,Oceania,2,1,7,esimgnr_1GB_7D_NZ_U,5,3.5,#ERROR!,0,0,0,,,,3,NZ
+,New Zealand 20GB,0,Oceania,2,20,30,esimgnr_20GB_30D_NZ_U,48,45,#ERROR!,0,0,0,,,,3,NZ
+,New Zealand 3GB,0,Oceania,2,3,30,esimgnr_3GB_30D_NZ_U,12,10,#ERROR!,0,0,0,,,,3,NZ
+,New Zealand 5GB,0,Oceania,2,5,30,esimgnr_5GB_30D_NZ_U,16,14,#ERROR!,0,0,0,,,,3,NZ
+,Nicaragua 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_NI_U,55,50,#ERROR!,0,0,0,,,,3,NI
+,Nicaragua 1GB,0,LATM,2,1,7,esimgnr_1GB_7D_NI_U,9.5,7.2,#ERROR!,0,0,0,,,,3,NI
+,Nicaragua 20,0,LATM,2,20,30,esimgnr_20GB_30D_NI_U,99,85,#ERROR!,0,0,0,,,,3,NI
+,Nicaragua 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_NI_U,21.5,18,#ERROR!,0,0,0,,,,3,NI
+,Nicaragua 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_NI_U,35,30,#ERROR!,0,0,0,,,,3,NI
+,Niger 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_NE_U,15,12,#ERROR!,0,0,0,,,,3,NE
+,Niger 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_NE_U,35,31.5,#ERROR!,0,0,0,,,,3,NE
+,Niger 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_NE_U,55,50,#ERROR!,0,0,0,,,,3,NE
+,Nigeria 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_NG_U,55,50,#ERROR!,0,0,0,,,,3,NG
+,Nigeria 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_NG_U,9.5,7.2,#ERROR!,0,0,0,,,,3,NG
+,Nigeria 20GB,0,Africa,2,20,30,esimgnr_20GB_30D_NG_U,99,85,#ERROR!,0,0,0,,,,3,NG
+,Nigeria 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_NG_U,21.5,18,#ERROR!,0,0,0,,,,3,NG
+,Nigeria 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_NG_U,35,30,#ERROR!,0,0,0,,,,3,NG
+,North America 10GB,0,North America,2,10,30,esimg_10GB_30D_RNA_U,50,48,42.39,0,0,1,,,,3,"CA,MX,US"
+,North America 1GB,0,North America,2,1,7,esimg_1GB_7D_RNA_U,7,6.5,5.27,0,0,1,,,,3,"CA,MX,US"
+,North America 20GB,0,North America,2,20,30,esimg_20GB_30D_RNA_U,100,85,76.08,0,0,1,,,,3,"CA,MX,US"
+,North America 3GB,0,North America,2,3,30,esimg_3GB_30D_RNA_U,17.5,16,14.07,0,0,1,,,,3,"CA,MX,US"
+,North America 5GB,0,North America,2,5,30,esimg_5GB_30D_RNA_U,30,28,23.14,0,0,1,,,,3,"CA,MX,US"
+,Northern Cyprus 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_CY_U,25,15,#ERROR!,0,0,0,,,,3,CY
+,Northern Cyprus 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_CYP_U,5,2.5,#ERROR!,0,0,0,,,,3,CY
+,Northern Cyprus 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_CY_U,35,25,#ERROR!,0,0,0,,,,3,CY
+,Northern Cyprus 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_CY_U,10,6,#ERROR!,0,0,0,,,,3,CY
+,Northern Cyprus 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_CY_U,15,10,#ERROR!,0,0,0,,,,3,CY
+,Norway 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_NO_U,25,15,#ERROR!,0,0,0,,,,3,NO
+,Norway 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_NO_U,5,2.5,#ERROR!,0,0,0,,,,3,NO
+,Norway 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_NO_U,35,25,#ERROR!,0,0,0,,,,3,NO
+,Norway 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_NO_U,10,6,#ERROR!,0,0,0,,,,3,NO
+,Norway 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_NO_U,15,10,#ERROR!,0,0,0,,,,3,NO
+,Oceania 10GB,0,Oceania,2,10,30,esimg_10GB_30D_ROC_U,30,26.5,21.43,0,0,1,,,,3,"AU,NZ"
+,Oceania 1GB,0,Oceania,2,1,7,esimg_1GB_7D_ROC_U,4.5,3.75,2.86,0,0,1,,,,3,"AU,NZ"
+,Oceania 20GB,0,Oceania,2,20,30,esimg_20GB_30D_REAS_U,46,43,38.27,0,0,1,,,,3,"AU,NZ"
+,Oceania 3GB,0,Oceania,2,3,30,esimg_3GB_30D_ROC_U,12,10,7.26,0,0,1,,,,3,"AU,NZ"
+,Oceania 5GB,0,Oceania,2,5,30,esimg_5GB_30D_ROC_U,15,13.5,11.8,0,0,1,,,,3,"AU,NZ"
+,Oman 10GB,0,Middle East,2,10,30,esimgnr_10GB_30D_OM_U,40,35,#ERROR!,0,0,0,,,,3,OM
+,Oman 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_OM_U,7,4.25,#ERROR!,0,0,0,,,,3,OM
+,Oman 20GB,0,Middle East,2,20,30,esimgnr_20GB_30D_OM_U,70,58,#ERROR!,0,0,0,,,,3,OM
+,Oman 3GB,0,Middle East,2,3,30,esimgnr_3GB_30D_OM_U,15,12,#ERROR!,0,0,0,,,,3,OM
+,Oman 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_OM_U,25,20,#ERROR!,0,0,0,,,,3,OM
+,Pakistan 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_PK_U,30,22.5,#ERROR!,0,0,0,,,,3,PK
+,Pakistan 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_PK_U,5,3.5,#ERROR!,0,0,0,,,,3,PK
+,Pakistan 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_PK_U,45,40,#ERROR!,0,0,0,,,,3,PK
+,Pakistan 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_PK_U,12.5,8.5,#ERROR!,0,0,0,,,,3,PK
+,Pakistan 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_PK_U,20,15,#ERROR!,0,0,0,,,,3,PK
+,Panama 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_PA_U,55,50,#ERROR!,0,0,0,,,,3,PA
+,Panama 1GB,0,LATM,2,1,7,esimgnr_1GB_7D_PA_U,9.5,7.2,#ERROR!,0,0,0,,,,3,PA
+,Panama 20GB,0,LATM,2,20,30,esimgnr_20GB_30D_PA_U,99,85,#ERROR!,0,0,0,,,,3,PA
+,Panama 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_PA_U,21.5,18,#ERROR!,0,0,0,,,,3,PA
+,Panama 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_PA_U,35,30,#ERROR!,0,0,0,,,,3,PA
+,Paraguay 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_PY_U,75,65,#ERROR!,0,0,0,,,,3,PY
+,Paraguay 1GB,0,LATM,2,1,7,esimgnr_1GB_7D_PY_U,12,9,#ERROR!,0,0,0,,,,3,PY
+,Paraguay 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_PY_U,27,23.5,#ERROR!,0,0,0,,,,3,PY
+,Paraguay 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_PY_U,40,36,#ERROR!,0,0,0,,,,3,PY
+,Peru 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_PE_U,55,50,#ERROR!,0,0,0,,,,3,PE
+,Peru 1GB,0,LATM,2,1,7,esimgnr_1GB_7D_PE_U,9.5,7.2,#ERROR!,0,0,0,,,,3,PE
+,Peru 20GB,0,LATM,2,20,30,esimgnr_20GB_30D_PE_U,99,85,#ERROR!,0,0,0,,,,3,PE
+,Peru 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_PE_U,21.5,18,#ERROR!,0,0,0,,,,3,PE
+,Peru 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_PE_U,35,30,#ERROR!,0,0,0,,,,3,PE
+,Philippines 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_PH_U,12,10,#ERROR!,0,0,0,,,,3,PH
+,Philippines 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_PH_U,25,22,#ERROR!,0,0,0,,,,3,PH
+,Philippines 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_PH_U,32,28,#ERROR!,0,0,0,,,,3,PH
+,Poland 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_PL_U,25,15,#ERROR!,0,0,0,,,,3,PL
+,Poland 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_PL_U,5,2.5,#ERROR!,0,0,0,,,,3,PL
+,Poland 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_PL_U,35,25,#ERROR!,0,0,0,,,,3,PL
+,Poland 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_PL_U,10,6,#ERROR!,0,0,0,,,,3,PL
+,Poland 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_PL_U,15,10,#ERROR!,0,0,0,,,,3,PL
+,Portugal 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_PT_U,25,15,#ERROR!,0,0,0,,,,3,PT
+,Portugal 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_PT_U,5,2.5,#ERROR!,0,0,0,,,,3,PT
+,Portugal 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_PT_U,35,25,#ERROR!,0,0,0,,,,3,PT
+,Portugal 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_PT_U,10,6,#ERROR!,0,0,0,,,,3,PT
+,Portugal 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_PT_U,15,10,#ERROR!,0,0,0,,,,3,PT
+,Qatar 10GB,0,Middle East,2,10,30,esimgnr_10GB_30D_QA_U,65,60,#ERROR!,0,0,0,,,,3,QA
+,Qatar 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_QA_U,10,8,#ERROR!,0,0,0,,,,3,QA
+,Qatar 20GB,0,Middle East,2,20,30,esimgnr_20GB_30D_QA_U,120,110,#ERROR!,0,0,0,,,,3,QA
+,Qatar 3GB,0,Middle East,2,3,30,esimgnr_3GB_30D_QA_U,25,22,#ERROR!,0,0,0,,,,3,QA
+,Qatar 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_QA_U,40,35,#ERROR!,0,0,0,,,,3,QA
+,Reunion 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_RE_U,55,50,#ERROR!,0,0,0,,,,3,RE
+,Réunion 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_RE_U,55,50,#ERROR!,0,0,0,,,,3,RE
+,Reunion 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_RE_U,9.5,7.2,#ERROR!,0,0,0,,,,3,RE
+,Réunion 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_RE_U,9.5,7.2,#ERROR!,0,0,0,,,,3,RE
+,Reunion 20GB,0,Africa,2,20,30,esimgnr_20GB_30D_RE_U,99,85,#ERROR!,0,0,0,,,,3,RE
+,Reunion 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_RE_U,21.5,18,#ERROR!,0,0,0,,,,3,RE
+,Réunion 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_RE_U,21.5,18,#ERROR!,0,0,0,,,,3,RE
+,Reunion 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_RE_U,35,30,#ERROR!,0,0,0,,,,3,RE
+,Réunion 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_RE_U,35,30,#ERROR!,0,0,0,,,,3,RE
+,Romania 10GB,0,Eastern Europe,2,10,30,esimgnr_10GB_30D_RO_U,25,15,#ERROR!,0,0,0,,,,3,RO
+,Romania 1GB,0,Eastern Europe,2,1,7,esimgnr_1GB_7D_RO_U,5,2.5,#ERROR!,0,0,0,,,,3,RO
+,Romania 20GB,0,Eastern Europe,2,20,30,esimgnr_20GB_30D_RO_U,35,25,#ERROR!,0,0,0,,,,3,RO
+,Romania 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_RO_U,10,6,#ERROR!,0,0,0,,,,3,RO
+,Romania 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_RO_U,15,10,#ERROR!,0,0,0,,,,3,RO
+,Russia 10GB,0,Eastern Europe,2,10,30,esimgnr_10GB_30D_RU_U,25,20,#ERROR!,0,0,0,,,,3,RU
+,Russia 1GB,0,Eastern Europe,2,1,7,esimgnr_1GB_7D_RU_U,5,3,#ERROR!,0,0,0,,,,3,RU
+,Russia 20GB,0,Eastern Europe,2,20,30,esimgnr_20GB_30D_RU_U,45,35,#ERROR!,0,0,0,,,,3,RU
+,Russia 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_RU_U,10,7,#ERROR!,0,0,0,,,,3,RU
+,Russia 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_RU_U,15,12,#ERROR!,0,0,0,,,,3,RU
+,Saint Barthelemy 10GB,0,Caribbean,2,10,30,esimgnr_10GB_30D_BL_U,55,47,#ERROR!,0,0,0,,,,3,BL
+,Saint Barthelemy 1GB,0,Caribbean,2,1,7,esimgnr_1GB_7D_BL_U,10,7.5,#ERROR!,0,0,0,,,,3,BL
+,Saint Barthelemy 20GB,0,Caribbean,2,20,30,esimgnr_20GB_30D_BL_U,80,75,#ERROR!,0,0,0,,,,3,BL
+,Saint Barthelemy 3GB,0,Caribbean,2,3,30,esimgnr_3GB_30D_BL_U,21.5,18,#ERROR!,0,0,0,,,,3,BL
+,Saint Barthelemy 5GB,0,Caribbean,2,5,30,esimgnr_5GB_30D_BL_U,35,30,#ERROR!,0,0,0,,,,3,BL
+,Saudi Arabia 10GB,0,Middle East,2,10,30,esimgnr_10GB_30D_SA_U,65,60,#ERROR!,0,0,0,,,,3,SA
+,Saudi Arabia 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_SA_U,9,8,#ERROR!,0,0,0,,,,3,SA
+,Saudi Arabia 20GB,0,Middle East,2,20,30,esimgnr_20GB_30D_SA_U,120,110,#ERROR!,0,0,0,,,,3,SA
+,Saudi Arabia 3GB,0,Middle East,2,3,30,esimgnr_3GB_30D_SA_U,25,22,#ERROR!,0,0,0,,,,3,SA
+,Saudi Arabia 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_SA_U,40,35,#ERROR!,0,0,0,,,,3,SA
+,Senegal 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_SN_U,12,10,#ERROR!,0,0,0,,,,3,SN
+,Senegal 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_SN_U,30,27,#ERROR!,0,0,0,,,,3,SN
+,Senegal 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_SN_U,55,50,#ERROR!,0,0,0,,,,3,SN
+,Serbia 10GB,0,Eastern Europe,2,10,30,esimgnr_10GB_30D_RS_U,40,35,#ERROR!,0,0,0,,,,3,RS
+,Serbia 1GB,0,Eastern Europe,2,1,7,esimgnr_1GB_7D_RS_U,7.5,5.5,#ERROR!,0,0,0,,,,3,RS
+,Serbia 20GB,0,Eastern Europe,2,20,30,esimgnr_20GB_30D_RS_U,65,60,#ERROR!,0,0,0,,,,3,RS
+,Serbia 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_RS_U,15,12.5,#ERROR!,0,0,0,,,,3,RS
+,Serbia 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_RS_U,25,20,#ERROR!,0,0,0,,,,3,RS
+,Seychelles 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_SC_U,55,50,#ERROR!,0,0,0,,,,3,SC
+,Seychelles 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_SC_U,9.5,7.2,#ERROR!,0,0,0,,,,3,SC
+,Seychelles 20GB,0,Africa,2,20,30,esimgnr_20GB_30D_SC_U,99,85,#ERROR!,0,0,0,,,,3,SC
+,Seychelles 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_SC_U,21.5,18,#ERROR!,0,0,0,,,,3,SC
+,Seychelles 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_SC_U,35,30,#ERROR!,0,0,0,,,,3,SC
+,Singapore 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_SG_U,25,20,#ERROR!,0,0,0,,,,3,SG
+,Singapore 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_SG_U,5,3.5,#ERROR!,0,0,0,,,,3,SG
+,Singapore 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_SG_U,45,35,#ERROR!,0,0,0,,,,3,SG
+,Singapore 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_SG_U,10,6,#ERROR!,0,0,0,,,,3,SG
+,Singapore 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_SG_U,15,12,#ERROR!,0,0,0,,,,3,SG
+,Slovakia 10GB,0,Eastern Europe,2,10,30,esimgnr_10GB_30D_SK_U,25,15,#ERROR!,0,0,0,,,,3,SK
+,Slovakia 1GB,0,Eastern Europe,2,1,7,esimgnr_1GB_7D_SK_U,5,2.5,#ERROR!,0,0,0,,,,3,SK
+,Slovakia 20GB,0,Eastern Europe,2,20,30,esimgnr_20GB_30D_SK_U,35,25,#ERROR!,0,0,0,,,,3,SK
+,Slovakia 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_SK_U,10,6,#ERROR!,0,0,0,,,,3,SK
+,Slovakia 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_SK_U,15,10,#ERROR!,0,0,0,,,,3,SK
+,Slovenia 10GB,0,Eastern Europe,2,10,30,esimgnr_10GB_30D_SI_U,25,15,#ERROR!,0,0,0,,,,3,SI
+,Slovenia 1GB,0,Eastern Europe,2,1,7,esimgnr_1GB_7D_SI_U,5,2.5,#ERROR!,0,0,0,,,,3,SI
+,Slovenia 20GB,0,Eastern Europe,2,20,30,esimgnr_20GB_30D_SI_U,35,25,#ERROR!,0,0,0,,,,3,SI
+,Slovenia 3GB,0,Eastern Europe,2,3,30,esimgnr_3GB_30D_SI_U,10,6,#ERROR!,0,0,0,,,,3,SI
+,Slovenia 5GB,0,Eastern Europe,2,5,30,esimgnr_5GB_30D_SI_U,15,10,#ERROR!,0,0,0,,,,3,SI
+,South Africa 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_ZA_U,45,40,#ERROR!,0,0,0,,,,3,ZA
+,South Africa 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_ZA_U,7.5,6.5,#ERROR!,0,0,0,,,,3,ZA
+,South Africa 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_ZA_U,18,16,#ERROR!,0,0,0,,,,3,ZA
+,South Africa 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_ZA_U,28,25,#ERROR!,0,0,0,,,,3,ZA
+,South Korea 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_KR_U,30,22.5,#ERROR!,0,0,0,,,,3,KR
+,South Korea 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_KR_U,5,3.5,#ERROR!,0,0,0,,,,3,KR
+,South Korea 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_KR_U,45,40,#ERROR!,0,0,0,,,,3,KR
+,South Korea 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_KR_U,12.5,8.5,#ERROR!,0,0,0,,,,3,KR
+,South Korea 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_KR_U,20,15,#ERROR!,0,0,0,,,,3,KR
+,Spain 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_ES_U,25,15,#ERROR!,0,0,0,,,,3,ES
+,Spain 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_ES_U,5,2.5,#ERROR!,0,0,0,,,,3,ES
+,Spain 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_ES_U,35,25,#ERROR!,0,0,0,,,,3,ES
+,Spain 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_ES_U,10,6,#ERROR!,0,0,0,,,,3,ES
+,Spain 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_ES_U,15,10,#ERROR!,0,0,0,,,,3,ES
+,Sri Lanka 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_LK_U,30,22.5,#ERROR!,0,0,0,,,,3,LK
+,Sri Lanka 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_LK_U,5,3.5,#ERROR!,0,0,0,,,,3,LK
+,Sri Lanka 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_LK_U,45,40,#ERROR!,0,0,0,,,,3,LK
+,Sri Lanka 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_LK_U,12.5,8.5,#ERROR!,0,0,0,,,,3,LK
+,Sri Lanka 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_LK_U,20,15,#ERROR!,0,0,0,,,,3,LK
+,Sweden 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_SE_U,25,15,#ERROR!,0,0,0,,,,3,SE
+,Sweden 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_SE_U,5,2.5,#ERROR!,0,0,0,,,,3,SE
+,Sweden 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_SE_U,35,25,#ERROR!,0,0,0,,,,3,SE
+,Sweden 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_SE_U,10,6,#ERROR!,0,0,0,,,,3,SE
+,Sweden 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_SE_U,15,10,#ERROR!,0,0,0,,,,3,SE
+,Switzerland 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_CH_U,25,15,#ERROR!,0,0,0,,,,3,CH
+,Switzerland 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_CH_U,5,2.5,#ERROR!,0,0,0,,,,3,CH
+,Switzerland 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_CH_U,35,25,#ERROR!,0,0,0,,,,3,CH
+,Switzerland 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_CH_U,10,6,#ERROR!,0,0,0,,,,3,CH
+,Switzerland 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_CH_U,15,10,#ERROR!,0,0,0,,,,3,CH
+,Taiwan 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_TW_U,5,3.6,#ERROR!,0,0,0,,,,3,TW
+,Taiwan 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_TW_U,10,7.5,#ERROR!,0,0,0,,,,3,TW
+,Taiwan 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_TW_U,12,10,#ERROR!,0,0,0,,,,3,TW
+,Tanzania 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_TZ_U,45,40,#ERROR!,0,0,0,,,,3,TZ
+,Tanzania 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_TZ_U,15,13.8,#ERROR!,0,0,0,,,,3,TZ
+,Tanzania 20GB,0,Africa,2,20,30,esimgnr_20GB_30D_TZ_U,85,70,#ERROR!,0,0,0,,,,3,TZ
+,Tanzania 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_TZ_U,20,15,#ERROR!,0,0,0,,,,3,TZ
+,Tanzania 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_TZ_U,30,25,#ERROR!,0,0,0,,,,3,TZ
+,Thailand 10GB,0,Asia,2,20,30,esimgnr_10GB_30D_TH_U,25,20,#ERROR!,0,0,0,,,,3,TH
+,Thailand 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_TH_U,5,3.5,#ERROR!,0,0,0,,,,3,TH
+,Thailand 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_TH_U,45,35,#ERROR!,0,0,0,,,,3,TH
+,Thailand 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_TH_U,10,7.5,#ERROR!,0,0,0,,,,3,TH
+,Thailand 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_TH_U,15,12,#ERROR!,0,0,0,,,,3,TH
+,Tunisia 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_TN_U,8,7.5,#ERROR!,0,0,0,,,,3,TN
+,Tunisia 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_TN_U,20,17,#ERROR!,0,0,0,,,,3,TN
+,Tunisia 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_TN_U,27,24,#ERROR!,0,0,0,,,,3,TN
+,Turkey 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_TR_U,25,15,#ERROR!,0,0,0,,,,3,TR
+,Turkey 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_TR_U,5,2.5,#ERROR!,0,0,0,,,,3,TR
+,Turkey 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_TR_U,35,25,#ERROR!,0,0,0,,,,3,TR
+,Turkey 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_TR_U,10,6,#ERROR!,0,0,0,,,,3,TR
+,Turkey 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_TR_U,15,10,#ERROR!,0,0,0,,,,3,TR
+,Uganda 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_UG_U,45,40,#ERROR!,0,0,0,,,,3,UG
+,Uganda 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_UG_U,9.5,6.5,#ERROR!,0,0,0,,,,3,UG
+,Uganda 20GB,0,Africa,2,20,30,esimgnr_20GB_30D_UG_U,85,70,#ERROR!,0,0,0,,,,3,UG
+,Uganda 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_UG_U,20,15,#ERROR!,0,0,0,,,,3,UG
+,Uganda 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_UG_U,30,25,#ERROR!,0,0,0,,,,3,UG
+,Ukraine 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_UA_U,25,15,#ERROR!,0,0,0,,,,3,UA
+,Ukraine 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_UA_U,5,2.5,#ERROR!,0,0,0,,,,3,UA
+,Ukraine 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_UA_U,35,25,#ERROR!,0,0,0,,,,3,UA
+,Ukraine 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_UA_U,10,6,#ERROR!,0,0,0,,,,3,UA
+,Ukraine 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_UA_U,15,10,#ERROR!,0,0,0,,,,3,UA
+,United Arab Emirates 10GB,0,Middle East,2,10,30,esimgnr_10GB_30D_AE_U,30,22.5,#ERROR!,0,0,0,,,,3,AE
+,United Arab Emirates 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_AE_U,7.5,4,#ERROR!,0,0,0,,,,3,AE
+,United Arab Emirates 1GB,0,Middle East,2,1,7,esimgnr_1GB_7D_AE_U,7.5,4,#ERROR!,0,0,0,,,,3,AE
+,United Arab Emirates 20GB,0,Middle East,2,20,30,esimgnr_20GB_30D_AE_U,45,40,#ERROR!,0,0,0,,,,3,AE
+,United Arab Emirates 3GB,0,Middle East,2,3,30,esimgnr_3GB_30D_AE_U,12.5,8.5,#ERROR!,0,0,0,,,,3,AE
+,United Arab Emirates 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_AE_U,20,15,#ERROR!,0,0,0,,,,3,AE
+,United Arab Emirates 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_AE_U,30,11.6,#ERROR!,0,0,0,,,,3,AE
+,United Kingdom 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_GB_U,25,15,#ERROR!,0,0,0,,,,3,GB
+,United Kingdom 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_GB_U,5,2.5,#ERROR!,0,0,0,,,,3,GB
+,United Kingdom 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_GB_U,35,25,#ERROR!,0,0,0,,,,3,GB
+,United Kingdom 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_GB_U,10,6,#ERROR!,0,0,0,,,,3,GB
+,United Kingdom 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_GB_U,15,10,#ERROR!,0,0,0,,,,3,GB
+,Uruguay 10GB,0,LATM,2,10,30,esimgnr_10GB_30D_UY_U,55,50,#ERROR!,0,0,0,,,,3,UY
+,Uruguay 1GB,0,LATM,2,1,7,esimgnr_1GB_7D_UY_U,9.5,7.2,#ERROR!,0,0,0,,,,3,UY
+,Uruguay 20,0,LATM,2,20,30,esimgnr_20GB_30D_UY_U,99,85,#ERROR!,0,0,0,,,,3,UY
+,Uruguay 3GB,0,LATM,2,3,30,esimgnr_3GB_30D_UY_U,21.5,18,#ERROR!,0,0,0,,,,3,UY
+,Uruguay 5GB,0,LATM,2,5,30,esimgnr_5GB_30D_UY_U,35,30,#ERROR!,0,0,0,,,,3,UY
+,USA 10GB,0,North America,2,10,30,esimgnr_10GB_30D_US_U,50,48,#ERROR!,0,0,0,,,,3,US
+,USA 1GB,0,North America,2,1,7,esimgnr_1GB_7D_US_U,7,6,#ERROR!,0,0,0,,,,3,US
+,USA 20GB,0,North America,2,20,30,esimgnr_20GB_30D_US_U,85,82,#ERROR!,0,0,0,,,,3,US
+,USA 3GB,0,North America,2,3,30,esimgnr_3GB_30D_US_U,22,20,#ERROR!,0,0,0,,,,3,US
+,USA 5GB,0,North America,2,5,30,esimgnr_5GB_30D_US_U,35,30,#ERROR!,0,0,0,,,,3,US
+,Uzbekistan 10GB,0,Middle East,2,10,30,esimgnr_10GB_30D_UZ_U,30,22.5,#ERROR!,0,0,0,,,,3,UZ
+,Uzbekistan 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_UZ_U,7.5,3.5,#ERROR!,0,0,0,,,,3,UZ
+,Uzbekistan 20GB,0,Middle East,2,20,30,esimgnr_20GB_30D_UZ_U,45,40,#ERROR!,0,0,0,,,,3,UZ
+,Uzbekistan 3GB,0,Middle East,2,3,30,esimgnr_3GB_30D_UZ_U,10,7.5,#ERROR!,0,0,0,,,,3,UZ
+,Uzbekistan 5GB,0,Middle East,2,5,30,esimgnr_5GB_30D_UZ_U,15,11.6,#ERROR!,0,0,0,,,,3,UZ
+,Vatican City 10GB,0,Europe,2,10,30,esimgnr_10GB_30D_VA_U,25,15,#ERROR!,0,0,0,,,,3,VA
+,Vatican City 1GB,0,Europe,2,1,7,esimgnr_1GB_7D_VA_U,5,2.5,#ERROR!,0,0,0,,,,3,VA
+,Vatican City 20GB,0,Europe,2,20,30,esimgnr_20GB_30D_VA_U,35,25,#ERROR!,0,0,0,,,,3,VA
+,Vatican City 3GB,0,Europe,2,3,30,esimgnr_3GB_30D_VA_U,10,6,#ERROR!,0,0,0,,,,3,VA
+,Vatican City 5GB,0,Europe,2,5,30,esimgnr_5GB_30D_VA_U,15,10,#ERROR!,0,0,0,,,,3,VA
+,Vietnam 10GB,0,Asia,2,10,30,esimgnr_10GB_30D_VN_U,30,22.5,#ERROR!,0,0,0,,,,3,VN
+,Vietnam 1GB,0,Asia,2,1,7,esimgnr_1GB_7D_VN_U,5,3.5,#ERROR!,0,0,0,,,,3,VN
+,Vietnam 20GB,0,Asia,2,20,30,esimgnr_20GB_30D_VN_U,45,40,#ERROR!,0,0,0,,,,3,VN
+,Vietnam 3GB,0,Asia,2,3,30,esimgnr_3GB_30D_VN_U,12.5,8.5,#ERROR!,0,0,0,,,,3,VN
+,Vietnam 5GB,0,Asia,2,5,30,esimgnr_5GB_30D_VN_U,20,15,#ERROR!,0,0,0,,,,3,VN
+,Zambia 10GB,0,Africa,2,10,30,esimgnr_10GB_30D_ZM_U,55,50,#ERROR!,0,0,0,,,,3,ZM
+,Zambia 1GB,0,Africa,2,1,7,esimgnr_1GB_7D_ZM_U,9.5,7.2,#ERROR!,0,0,0,,,,3,ZM
+,Zambia 20GB,0,Africa,2,20,30,esimgnr_20GB_30D_ZM_U,99,85,#ERROR!,0,0,0,,,,3,ZM
+,Zambia 3GB,0,Africa,2,3,30,esimgnr_3GB_30D_ZM_U,21.5,18,#ERROR!,0,0,0,,,,3,ZM
+,Zambia 5GB,0,Africa,2,5,30,esimgnr_5GB_30D_ZM_U,35,30,#ERROR!,0,0,0,,,,3,ZM

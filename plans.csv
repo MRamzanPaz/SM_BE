@@ -1,0 +1,605 @@
+id,plan_name,global_plan,isRegional,region,countries,data,validity,vendor,package_name,retail_price,wholesale_price,cost_price,singleUse,test_plan
+1,Plan for Kenya,0,0,Africa,KE,1,7,Esim-Go,esimg_1GB_7D_KE_U,7.5,5.7,4.8,0,0
+9,Plan for Africa,0,1,Africa,"ZM,MG,RE,SC,TD,NG,TN,ZA,CD,EG,TZ,KE",1,7,Esim-Go,esimg_1GB_7D_RAF_U,7.5,7,5.8,0,0
+11,Plan for North America,0,0,North America,"US,CA,MX",1,7,Esim-Go,esimg_1GB_7D_RNA_U,5,4.25,3.5,0,0
+13,Plan for Caribbean,0,0,Caribbean,"AI,AG,AW,BS,BB,BQ,VG,KY,CW,DM,GF,GD,GP,HT,JM,MQ,MS,PA,PR,KN,LC,VC,TT,TC",1,7,AIRALO,island-hopper-7days-1gb,18,17.5,15,1,0
+14,Plan for Middle East,0,0,Middle East,"IL,AE,JO,KW,OM,SA",1,7,Esim-Go,esimg_1GB_7D_RME_U,7.5,5,3.5,0,0
+15,Plan for LATAMS,0,0,LATAM,"CO,CR,EC,SV,GT,NI,PA,PE,UY,BR,AR,PY,BO",1,7,Esim-Go,esimg_1GB_30D_RLA_U,10,9,7.5,0,0
+19,Plan for Pakistan,0,0,Pakistan,PK,1,7,Esim-Go,esimg_1GB_7D_PK_U,5,3,2.5,0,0
+22,Plan For St. Vincent And The Grenadines,0,0,Caribbean,VC,1,7,AIRALO,tobago-7days-1gb,15,15,9.5,1,0
+23,Plan For Saint Lucia,0,0,Caribbean,LC,1,7,AIRALO,lucnet-7days-1gb,15,15,9.5,1,0
+24,Plan For Saint Kitts And Nevis,0,0,Caribbean,KN,1,7,AIRALO,kittcom-7days-1gb,15,15,9.5,1,0
+26,Plan For Netherlands,0,0,Europe,NL,1,7,Esim-Go,esimg_1GB_7D_NL_U,5,2,1.7,0,0
+27,Plan for Martinique,0,0,Caribbean,MQ,1,7,AIRALO,jardin-mobile-7days-1gb,15,15,5,1,0
+28,Plan for Jamaica,0,0,Caribbean,JM,1,7,AIRALO,jammcom-7days-1gb,15,15,9.5,1,0
+34,Plan For Sri Lanka,0,0,Sri Lanka,LK,1,7,Esim-Go,esimg_1GB_7D_LK_U,5,3,2.5,0,0
+46,Plan for Kazakhstan,0,0,Kazakhstan,KZ,1,7,Esim-Go,esimg_1GB_7D_KZ_U,5,3,2.5,0,0
+50,Plan for Hong Kong,0,0,Asia,HK,1,7,Esim-Go,esimg_1GB_7D_HK_U,5,2,2.2,0,0
+56,Plan for Mexico,0,0,LATAM,MX,1,7,Esim-Go,esimg_1GB_7D_MX_U,5,2.6,3.5,0,0
+57,Plan for Canada,0,0,North America,CA,1,7,Esim-Go,esimg_1GB_7D_CA_U,5,4.2,3.5,0,0
+60,Plan for United Kingdom,0,0,Europe,GB,1,7,Esim-Go,esimg_1GB_7D_GB_U,5,2,1.7,0,0
+61,Plan for Ukraine,0,0,Ukraine,UA,1,7,Esim-Go,esimg_1GB_7D_UA_U,5,2,1.7,0,0
+62,Plan for Turkey,0,0,Europe,TR,1,7,Esim-Go,esimg_1GB_7D_TR_U,5,2,1.7,0,0
+63,Plan for Switzerland,0,0,Europe,CH,1,7,Esim-Go,esimg_1GB_7D_CH_U,5,2,1.7,0,0
+64,Plan for Sweden,0,0,Europe,SE,1,7,Esim-Go,esimg_1GB_7D_SE_U,5,2,1.7,0,0
+65,Plan for Spain,0,0,Europe,ES,1,7,Esim-Go,esimg_1GB_7D_ES_U,5,2,1.7,0,0
+66,Plan for Slovenia,0,0,Europe,SI,1,7,Esim-Go,esimg_1GB_7D_SI_U,5,2,1.7,0,0
+67,Plan for Serbia,0,0,Europe,RS,1,7,Esim-Go,esimg_1GB_7D_RS_U,7.5,4.2,3.5,0,0
+70,Plan for Romania,0,0,Europe,RO,1,7,Esim-Go,esimg_1GB_7D_RO_U,5,2,1.7,0,0
+70,Plan for Russia,0,0,Eastern Europe,RU,1,7,Esim-Go,esimg_1GB_7D_RU_U,5,2.6,2.2,0,0
+71,Plan for Portugal,0,0,Europe,PT,1,7,Esim-Go,esimg_1GB_7D_PT_U,5,2,1.7,0,0
+72,Plan for Poland,0,0,Europe,PL,1,7,Esim-Go,esimg_1GB_7D_PL_U,5,2,1.7,0,0
+73,Plan for Norway,0,0,Europe,NO,1,7,Esim-Go,esimg_1GB_7D_NO_U,5,2,1.7,0,0
+75,Plan for Moldova,0,0,Europe,MD,1,7,AIRALO,soroca-mobile-7days-1gb,6,5.5,5.5,1,0
+76,Plan for Malta,0,0,Europe,MT,1,7,Esim-Go,esimg_1GB_7D_MT_U,5,2,1.7,0,0
+77,Plan for Macedonia,0,0,Europe,MK,1,7,Esim-Go,esimg_1GB_7D_MK_U,5,4.2,3.5,0,0
+78,Plan for Luxembourg,0,0,Europe,LU,1,7,Esim-Go,esimg_1GB_7D_LU_U,5,2,1.7,0,0
+78,Plan for Macao,0,0,Asia,MO,1,7,Esim-Go,esimg_1GB_7D_MO_U,5,2,2.2,0,0
+79,Plan for Lithuania,0,0,Europe,LT,1,7,Esim-Go,esimg_1GB_7D_LT_U,5,2,1.7,0,0
+81,Plan for Hungary,0,0,Europe,HU,1,7,Esim-Go,esimg_1GB_7D_HU_U,5,2,1.7,0,0
+82,Plan for Greece,0,0,Europe,GR,1,7,Esim-Go,esimg_1GB_7D_GR_U,5,2,1.7,0,0
+83,Plan for Latvia,0,0,Europe,LV,1,7,Esim-Go,esimg_1GB_7D_LV_U,5,2,1.7,0,0
+84,Plan for Italy,0,0,Europe,IT,1,7,Esim-Go,esimg_1GB_7D_IT_U,5,2,1.7,0,0
+86,Plan for Iceland,0,0,Europe,IS,1,7,Esim-Go,esimg_1GB_7D_IS_U,5,2,1.7,0,0
+91,Plan for Andorra,0,0,Europe,AD,1,7,AIRALO,handi-7days-1gb,5,4.5,4.5,1,0
+93,Plan for Benin,0,0,Africa,BJ,1,7,AIRALO,cotton-mobile-7days-1gb,10,9.5,9.5,1,0
+94,Plan for Botswana,0,0,Africa,BW,1,7,AIRALO,maun-telecom-7days-1gb,10,8,8,1,0
+95,Plan for Burkina Faso,0,0,Africa,BF,1,7,AIRALO,volta-7days-1gb,10,9.5,9.5,1,0
+97,Plan for Cameroon,0,0,Africa,CM,1,7,Esim-Go,esimg_1GB_7D_CM_U,10,8.9,7.5,0,0
+98,Plan for Cape Verde,0,0,Africa,CV,1,7,AIRALO,fogotel-7days-1gb,10,9.5,9.5,1,0
+100,Plan for Gabon,0,0,Africa,GA,1,7,Esim-Go,esimg_1GB_7D_GA_U,15,11.6,9.8,0,0
+101,Plan for Gambia,0,0,Africa,GM,1,7,AIRALO,wassu-telecom-7days-1gb,10,9.5,9.5,1,0
+102,Plan for Ghana,0,0,Africa,GH,1,7,Esim-Go,esimg_1GB_7D_GH_U,15,11.6,9.8,0,0
+103,Plan for Guinea Bissau,0,0,Africa,GW,1,7,Esim-Go,esimg_1GB_7D_GW_U,15,11.6,9.8,0,0
+106,Plan for Liberia,0,0,Africa,LR,1,7,Esim-Go,esimg_1GB_7D_LR_U,10,6.9,9.8,0,0
+107,Plan for Madagascar,0,0,Africa,MG,1,7,Esim-Go,esimg_1GB_7D_MG_U,10,6.9,5.8,0,0
+108,Plan for Malawi,0,0,Africa,MW,1,7,Esim-Go,esimg_1GB_7D_MW_U,15,11.6,9.8,0,0
+109,Plan for Mali,0,0,Africa,ML,1,7,Esim-Go,esimg_1GB_7D_ML_U,15,11.6,9.8,0,0
+110,Plan for Mauritius,0,0,Africa,MU,1,7,AIRALO,mornecom-7days-1gb,10,9,9.5,1,0
+112,Plan for Morocco,0,0,Africa,MA,1,7,Esim-Go,esimg_1GB_7D_MA_U,10,8.9,7.5,0,0
+114,Plan for Niger,0,0,Africa,NE,1,7,Esim-Go,esimg_1GB_7D_NE_U,15,11.6,9.8,0,0
+115,Plan for Nigeria,0,0,Africa,NG,1,7,AIRALO,nigercell-7days-1gb,8.5,6.9,8.5,1,0
+116,Plan for Réunion,0,0,Africa,RE,1,7,Esim-Go,esimg_1GB_7D_RE_U,10,6.9,5.8,0,0
+118,Plan for Senegal,0,0,Africa,SN,1,7,Esim-Go,esimg_1GB_7D_SN_U,15,11.6,9.8,0,0
+119,Plan for Seychelles,0,0,Africa,SC,1,7,Esim-Go,esimg_1GB_7D_SC_U,10,6.9,5.8,0,0
+121,Plan for South Africa,0,0,Africa,ZA,1,7,AIRALO,cellsa-7days-1gb,5,4.5,4.5,1,0
+125,Plan for Tanzania,0,0,Africa,TZ,1,7,Esim-Go,esimg_1GB_7D_TZ_U,9,5.7,4.8,0,0
+126,Plan for Uganda,0,0,Africa,UG,1,7,Esim-Go,esimg_1GB_7D_UG_U,10,5.7,4.8,0,0
+127,Plan for Zambia,0,0,Africa,ZM,1,7,Esim-Go,esimg_1GB_7D_ZM_U,10,6.9,5.8,0,0
+128,Plan for Zimbabwe,0,0,Africa,ZW,1,7,AIRALO,zimcom-7days-1gb,10,9.5,9.5,1,0
+132,Plan for Thailand,0,0,Asia,TH,1,7,Esim-Go,esimg_1GB_7D_TH_U,5,2,2.2,0,0
+134,Plan for Vietnam,0,0,Asia,VN,1,7,Esim-Go,esimg_1GB_7D_VN_U,5,2.6,2.5,0,0
+135,Plan for Antigua & Barbuda,0,0,Caribbean,AG,1,7,AIRALO,17-miles-7days-1gb,15,15,9.5,1,0
+136,Plan for Aruba,0,0,Caribbean,AW,1,7,AIRALO,noord-communications-7days-1gb,15,15,9.5,1,0
+137,Plan for Barbados,0,0,Caribbean,BB,1,7,AIRALO,barbnet-7days-1gb,15,15,9.5,1,0
+140,Plan for Bonaire,0,0,Caribbean,BQ,1,7,AIRALO,hatonet-7days-1gb,15,15,9.5,1,0
+141,Plan for British Virgin Islands,0,0,Caribbean,VG,1,7,AIRALO,jost-mobile-7days-1gb,15,15,9.5,1,0
+142,Plan for Cayman Islands,0,0,Caribbean,KY,1,7,AIRALO,atlantis-telecom-7days-1gb,15,15,9.5,1,0
+144,Plan for Dominica,0,0,Caribbean,DM,1,7,AIRALO,vaina-communications-7days-1gb,15,15,9.5,1,0
+146,Plan for El Salvador,0,0,LATAM,SV,1,7,Esim-Go,esimg_1GB_7D_SV_U,7.5,6.9,5.8,0,0
+147,Plan for French Guiana,0,0,Caribbean,GF,1,7,AIRALO,kawcom-7days-1gb,15,15,8.5,1,0
+148,Plan for Grenada,0,0,Caribbean,GD,1,7,AIRALO,fortnet-7days-1gb,15,15,9.5,1,0
+149,Plan for Guadeloupe,0,0,Caribbean,GP,1,7,AIRALO,guanet-7days-1gb,15,15,6,1,0
+151,Plan for Haiti,0,0,Caribbean,HT,1,7,AIRALO,bon-bagay-7days-1gb,15,15,9.5,1,0
+152,Plan for Montserrat,0,0,Caribbean,MS,1,7,AIRALO,carrs-telecom-7days-1gb,15,15,9,1,0
+157,Plan for Trinidad & Tobago,0,0,Caribbean,TT,1,7,AIRALO,tritocom-7days-1gb,15,15,9.5,1,0
+158,Plan for Turks & Caicos,0,0,Caribbean,TC,1,7,AIRALO,tuca-mobile-7days-1gb,15,15,9.5,1,0
+159,Plan for Nicaragua,0,0,LATAM,NI,1,7,Esim-Go,esimg_1GB_7D_NI_U,7.5,6.9,5.8,0,0
+160,Plan for Panama,0,0,LATAM,PA,1,7,Esim-Go,esimg_1GB_7D_PA_U,7.5,6.9,5.8,0,0
+161,Plan for Paraguay,0,0,LATAM,PY,1,7,Esim-Go,esimg_1GB_7D_PY_U,10,8.9,7.5,0,0
+162,Plan for Peru,0,0,LATAM,PE,1,7,Esim-Go,esimg_1GB_7D_PE_U,7.5,6.9,5.8,0,0
+163,Plan for Puerto Rico,0,0,LATAM,PR,1,7,AIRALO,boricua-mobile-7days-1gb,5,4.5,4.5,1,0
+164,Plan for Tonga,0,0,Africa,TO,1,7,AIRALO,tofua-mobile-7days-1gb,10,9.5,9.5,1,0
+165,Plan for Uruguay,0,0,LATAM,UY,1,7,Esim-Go,esimg_1GB_7D_UY_U,7.5,6.9,5.8,0,0
+166,Plan for Venezuela,0,0,LATAM,VE,1,7,AIRALO,aragua-mobile-7days-1gb,10,9.5,9.5,1,0
+167,Plan for Afghanistan,0,0,Middle East,AF,1,7,AIRALO,sohbat-mobile-7days-1gb,8,8,6.8,1,0
+168,Plan for Armenia,0,0,Middle East,AM,1,7,AIRALO,arpi-telecom-7-days-1gb,7.5,6.5,6.5,1,0
+169,Plan for Azerbaijan,0,0,Middle East,AZ,1,7,Esim-Go,esimg_1GB_7D_AZ_U,7.5,6.9,5.8,0,0
+170,Plan for Bahrain,0,0,Middle East,BH,1,7,AIRALO,saar-mobile-7days-1gb,7.5,6,6,1,0
+171,Plan for Brunei Darussalam,0,0,Middle East,BN,1,7,Esim-Go,esimg_1GB_7D_BN_U,10,8.9,7.5,0,0
+175,Plan for Israel,0,0,Middle East,IL,1,7,Esim-Go,esimg_1GB_7D_IL_U,5,3,2.5,0,0
+176,Plan for Jordan,0,0,Middle East,JO,1,7,Esim-Go,esimg_1GB_7D_JO_U,7.5,4.2,3.5,0,0
+177,Plan for Kuwait,0,0,Middle East,KW,1,7,Esim-Go,esimg_1GB_7D_KW_U,6.5,4.2,3.5,0,0
+178,Plan for Oman,0,0,Middle East,OM,1,7,Esim-Go,esimg_1GB_7D_OM_U,6.5,4.2,3.5,0,0
+180,Plan for Qatar,0,0,Middle East,QA,1,7,AIRALO,pearl-mobile-7days-1gb,5,5,5,1,0
+181,Plan for Saudi Arabia,0,0,Middle East,SA,1,7,Esim-Go,esimg_1GB_7D_SA_U,6.5,4.2,3.5,0,0
+182,Plan for United Arab Emirates (UAE),0,0,Middle East,AE,1,7,Esim-Go,esimg_1GB_7D_AE_U,7.5,3,2.5,0,0
+183,Plan for Yemen,0,0,Yemen,YE,1,7,Esim-Go,esimg_1GB_7D_YE_U,10,6.9,5.8,0,0
+185,Plan for Austria,0,0,Europe,AT,1,7,Esim-Go,esimg_1GB_7D_AT_U,5,2.5,1.7,0,0
+186,Plan for Belarus,0,0,Europe,BY,1,7,AIRALO,norach-telecom-7days-1gb,7.5,7,9.5,1,0
+187,Plan For Belgium,0,0,Europe,BE,1,7,Esim-Go,esimg_1GB_7D_BE_U,5,2,1.7,0,0
+188,Plan For Bosnia and Herzegovina,0,0,Europe,BA,1,7,AIRALO,bosher-7days-1gb,5,4.5,4.5,1,0
+189,Plan For Bulgaria,0,0,Europe,BG,1,7,Esim-Go,esimg_1GB_7D_BG_U,5,2,1.7,0,0
+190,Plan For Cyprus,0,0,Europe,CY,1,7,Esim-Go,esimg_1GB_7D_CY_U,5,2,1.7,0,0
+191,Plan For Czech Republic,0,0,Europe,CZ,1,7,Esim-Go,esimg_1GB_7D_CZ_U,5,2,1.7,0,0
+192,Plan For Denmark,0,0,Europe,DK,1,7,Esim-Go,esimg_1GB_7D_DK_U,5,2,1.7,0,0
+193,Plan For Estonia,0,0,Europe,EE,1,7,Esim-Go,esimg_1GB_7D_EE_U,5,2,1.7,0,0
+194,Plan For Finland,0,0,Europe,FI,1,7,Esim-Go,esimg_1GB_7D_FI_U,5,2,1.7,0,0
+195,Plan For France,0,0,Europe,FR,1,7,Esim-Go,esimg_1GB_7D_FR_U,5,2,1.7,0,0
+196,Plan For Germany,0,0,Europe,DE,1,7,Esim-Go,esimg_1GB_7D_DE_U,5,2,1.7,0,0
+197,Plan For Gibraltar,0,0,Europe,GI,1,7,Esim-Go,esimg_1GB_7D_GI_U,7.5,6.9,5.8,0,0
+198,Plan for Chad,0,0,Africa,TD,1,7,Esim-Go,esimg_1GB_7D_TD_U,10,6.9,5.8,0,0
+204,Plan for Argentina,0,0,LATAM,AR,1,7,Esim-Go,esimg_1GB_7D_AR_U,7.5,6.9,5.8,0,0
+205,Plan for Bolivia,0,0,LATAM,BO,1,7,Esim-Go,esimg_1GB_7D_BO_U,10,8.9,7.5,0,0
+206,Plan for Brazil,0,0,LATAM,BR,1,7,Esim-Go,esimg_1GB_7D_BR_U,5,4.2,3.5,0,0
+207,Plan for Chile,0,0,LATAM,CL,1,7,Esim-Go,esimg_1GB_7D_CL_U,5,4.2,3.5,0,0
+208,Plan for China,0,0,Asia,CN,1,7,Esim-Go,esimg_1GB_7D_CN_U,5,4.2,3.5,0,0
+208,Plan for Colombia,0,0,LATAM,CO,1,7,Esim-Go,esimg_1GB_7D_CO_U,10,8.9,7.5,0,0
+209,Plan for Costa Rica,0,0,LATAM,CR,1,7,Esim-Go,esimg_1GB_7D_CR_U,7.5,6.9,5.8,0,0
+210,Plan for DRC,0,0,Africa,CD,1,7,Esim-Go,esimg_1GB_7D_CD_U,10,6.9,5.8,0,0
+210,Plan for Ecuador,0,0,LATAM,EC,1,7,Esim-Go,esimg_1GB_7D_EC_U,7.5,6.9,5.8,0,0
+212,Plan for Guatemala,0,0,LATAM,GT,1,7,Esim-Go,esimg_1GB_7D_GT_U,10,8.9,7.5,0,0
+213,Plan for Honduras,0,0,LATAM,HN,1,7,AIRALO,honnet-7days-1gb,10,9,9,1,0
+214,Plan for Albania,0,0,Europe,AL,1,7,AIRALO,hej-telecom-7days-1gb,7.5,7,4.5,1,0
+215,Plan for Croatia,0,0,Europe,HR,1,7,Esim-Go,esimg_1GB_7D_HR_U,5,2,1.7,0,0
+216,Plan for Kosovo,0,0,Europe,XK,1,7,AIRALO,kosnet-7days-1gb,7,6.5,6.5,1,0
+217,Plan for Montenegro,0,0,Europe,ME,1,7,AIRALO,jezero-7days-1gb,7.5,6.5,6.5,1,0
+217,Plan for Mozambique,0,0,Africa,MZ,1,7,AIRALO,comemoro-7days-1gb,9,8,8,1,0
+220,Plan for Anguilla,0,0,Caribbean,AI,1,7,AIRALO,dolphin-mobile-7days-1gb,15,15,9.5,1,0
+234,Plan for Europe,0,0,Europe,"AX,AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,DE,GR,HU,IS,IE,IT,LV,LI,LT,LU,MT,NL,NO,PL,PT,RO,SK,SI,ES,SE,CH,TR,UA,GB",1,7,Esim-Go,esimg_1GB_7D_REUP_U,5,2,1.7,0,0
+280,Plan for Uzbekistan,0,0,Uzbekistan,UZ,1,7,Esim-Go,esimg_1GB_7D_UZ_U,7.5,3,2.5,0,0
+388,Plan for Egypt,0,0,Africa,EG,1,7,Esim-Go,esimg_1GB_7D_EG_U,10,6.9,5.8,0,0
+454,Plan for Algeria,0,0,Africa,DZ,1,7,AIRALO,algecom-7days-1gb,8,7,7,1,0
+464,Plan for Central African Republic,0,0,Africa,CF,1,7,Esim-Go,esimg_1GB_7D_CF_U,12.5,11.6,9.8,0,0
+468,Plan for Congo,0,0,Africa,CG,1,7,Esim-Go,esimg_1GB_7D_CG_U,10,6.9,5.8,0,0
+503,Plan for Asia,0,0,Asia,"MY,UZ,KR,SG,MO,LK,ID,HK,CN,TW,VN,TH,AU,PK,KZ",1,7,Esim-Go,esimg_1GB_7D_RAS_U,5,3,2.5,0,0
+544,Plan for USA,0,0,North America,US,1,7,Esim-Go,esimg_1GB_7D_US_U,4.5,2.6,2.2,0,0
+548,Plan for Slovakia,0,0,Europe,SK,1,7,Esim-Go,esimg_1GB_7D_SK_U,5,2,1.7,0,0
+628,Plan for New Zealand,0,0,Oceania,NZ,1,7,Esim-Go,esimg_1GB_7D_NZ_U,4,2,2.2,0,0
+629,Plan For Singapore,0,0,Asia,SG,1,7,Esim-Go,esimg_1GB_7D_SG_U,5,2,2.2,0,0
+633,Plan For Malaysia,0,0,Asia,MY,1,7,Esim-Go,esimg_1GB_7D_MY_U,5,3,2.5,0,0
+637,Plan for Albania 3GB,0,0,Eastern Europe,AL,3,30,AIRALO,hej-telecom-30days-3gb,17.5,17.5,9.5,1,0
+638,Plan for Algeria 3GB,0,0,Africa,DZ,3,30,AIRALO,algecom-30days-3gb,18,17.5,17.5,1,0
+639,Plan for Andorra 3GB,0,0,Europe,AD,3,30,AIRALO,handi-30days-3gb,12.5,10.5,10.5,1,0
+640,Plan for Argentina 3GB,0,0,LATM,AR,3,30,Esim-Go,esimg_3GB_30D_AR_U,18,17.7,15,0,0
+641,Plan for Armenia 3GB,0,0,Middle East,AM,3,30,AIRALO,arpi-telecom-30days-3gb,17,17,17,1,0
+642,Plan for Australia 3GB,0,0,Oceania,AU,3,30,Esim-Go,esimg_3GB_30D_AU_U,5,4.7,5.5,0,0
+643,Plan for Austria 3GB,0,0,Europe,AT,3,30,Esim-Go,esimg_3GB_30D_AT_U,12.5,4.7,4,0,0
+644,Plan for Azerbaijan 3GB,0,0,Middle East,AZ,3,30,Esim-Go,esimg_3GB_30D_AZ_U,25,17.7,15,0,0
+645,Plan for Bahrain 3GB,0,0,Middle East,BH,3,30,AIRALO,saar-mobile-30days-3gb,12,12,12,1,0
+647,Plan for Bangladesh 3GB,0,0,Asia,BD,3,30,AIRALO,fatafati-30days-3gb,9,9,9,1,0
+648,Plan for Belgium 3GB,0,0,Europe,BE,3,30,Esim-Go,esimg_3GB_30D_BE_U,12.5,4.7,4,0,0
+650,Plan for Bolivia 3GB,0,0,LATM,BO,3,30,Esim-Go,esimg_3GB_30D_BO_U,25,23.1,19.6,0,0
+651,Plan for Bosnia and Herzegovina 3GB,0,0,Eastern Europe,BA,3,30,AIRALO,bosher-30days-3gb,12.5,9.5,9.5,1,0
+652,Plan for Botswana 3GB,0,0,Africa,BW,3,30,AIRALO,maun-telecom-30days-3gb,20,20,20,1,0
+653,Plan for Brazil 3GB,0,0,LATM,BR,3,30,Esim-Go,esimg_3GB_30D_BR_U,12,11.1,9.4,0,0
+654,Plan for Brunei Darussalam 3GB,0,0,Middle East,BN,3,30,AIRALO,muara-mobile-30days-3gb,18,18,18,1,0
+655,Plan for Bulgaria 3GB,0,0,Europe,BG,3,30,Esim-Go,esimg_3GB_30D_BG_U,12.5,4.7,4,0,0
+657,Plan for Cambodia 3GB,0,0,Asia,KH,3,30,AIRALO,connect-cambodia-30days-3gb,9,9,9,1,0
+658,Plan for Cameroon 3GB,0,0,Africa,CM,3,30,Esim-Go,esimg_3GB_30D_CM_U,25,23.1,19.6,0,0
+659,Plan for Canada 3GB,0,0,North America,CA,3,30,Esim-Go,esimg_3GB_30D_CA_U,15,11.1,9.4,0,0
+660,Plan for Central African Republic 3GB,0,0,Africa,CF,3,30,Esim-Go,esimg_3GB_30D_CF_U,35,31.2,26.5,0,0
+661,Plan for Chad 3GB,0,0,Africa,TD,3,30,Esim-Go,esimg_3GB_30D_TD_U,20,17.7,15,0,0
+662,Plan for Chile 3GB,0,0,LATM,CL,3,30,Esim-Go,esimg_3GB_30D_CL_U,12,11.1,9.4,0,0
+664,Plan for Colombia 3GB,0,0,LATM,CO,3,30,Esim-Go,esimg_3GB_30D_CO_U,25,23.1,19.6,0,0
+665,Plan for Congo 3GB,0,0,Africa,CG,3,30,Esim-Go,esimg_3GB_30D_CD_U,20,17.7,15,0,0
+666,Plan for Costa Rica 3GB,0,0,LATM,CR,3,30,Esim-Go,esimg_3GB_30D_CR_U,18,17.7,15,0,0
+667,Plan for Croatia 3GB,0,0,Eastern Europe,HR,3,30,Esim-Go,esimg_3GB_30D_HR_U,10,4.7,4,0,0
+668,Plan for Cyprus 3GB,0,0,Europe,CY,3,30,Esim-Go,esimg_3GB_30D_CY_U,12.5,4.7,4,0,0
+669,Plan for Czech Republic 3GB,0,0,Europe,CZ,3,30,Esim-Go,esimg_3GB_30D_CZ_U,12.5,4.7,4,0,0
+670,Plan for Denmark 3GB,0,0,Europe,DK,3,30,Esim-Go,esimg_3GB_30D_DK_U,12.5,4.7,4,0,0
+670,Plan for DRC 3GB,0,0,Africa,CD,3,30,Esim-Go,esimg_3GB_30D_CD_U,20,17.7,15,0,0
+672,Plan for Ecuador 3GB,0,0,LATM,EC,3,30,Esim-Go,esimg_3GB_30D_EC_U,18,17.7,15,0,0
+673,Plan for Egypt 3GB,0,0,Africa,EG,3,30,Esim-Go,esimg_3GB_30D_EG_U,25,17.7,15,0,0
+675,Plan for El Salvador 3GB,0,0,LATM,SV,3,30,Esim-Go,esimg_3GB_30D_SV_U,18,17.7,15,0,0
+676,Plan for Estonia 3GB,0,0,Europe,EE,3,30,Esim-Go,esimg_3GB_30D_EE_U,12.5,4.7,4,0,0
+678,Plan for Finland 3GB,0,0,Europe,FI,3,30,Esim-Go,esimg_3GB_30D_FI_U,12.5,4.7,4,0,0
+679,Plan for France 3GB,0,0,Europe,FR,3,30,Esim-Go,esimg_3GB_30D_FR_U,12.5,4.7,4,0,0
+680,Plan for Gabon 3GB,0,0,Africa,GA,3,30,Esim-Go,esimg_3GB_30D_GA_U,35,31.2,26.5,0,0
+681,Plan for Georgia 3GB,0,0,Eastern Europe,GE,3,30,AIRALO,kargi-mobile-30days-3gb,17.5,13.5,13.5,1,0
+682,Plan for Germany 3GB,0,0,Europe,DE,3,30,Esim-Go,esimg_3GB_30D_DE_U,12.5,4.7,4,0,0
+683,Plan for Ghana 3GB,0,0,Africa,GH,3,30,Esim-Go,esimg_3GB_30D_GH_U,35,31.2,26.5,0,0
+684,Plan for Gibraltar (UK) 3GB,0,0,Europe,GI,3,30,Esim-Go,esimg_3GB_30D_GI_U,22,27.1,15,0,0
+685,Plan for Greece 3GB,0,0,Europe,GR,3,30,Esim-Go,esimg_3GB_30D_GR_U,12.5,4.7,4,0,0
+686,Plan for Guatemala 3GB,0,0,LATM,GT,3,30,Esim-Go,esimg_3GB_30D_GT_U,25,23.1,19.6,0,0
+687,Plan for Guinea Bissau 3GB,0,0,Africa,GW,3,30,Esim-Go,esimg_3GB_30D_GW_U,35,31.2,26.5,0,0
+688,Plan for Honduras 3GB,0,0,LATM,HN,3,30,AIRALO,honnet-30days-3gb,24,24,24,1,0
+689,Plan for Hong Kong 3GB,0,0,Asia,HK,3,30,Esim-Go,esimg_3GB_30D_HK_U,7.5,4.7,5.5,0,0
+690,Plan for Hungary 3GB,0,0,Europe,HU,3,30,Esim-Go,esimg_3GB_30D_HU_U,12.5,4.7,4,0,0
+691,Plan for Iceland 3GB,0,0,Europe,IS,3,30,Esim-Go,esimg_3GB_30D_IS_U,12.5,4.7,4,0,0
+693,Plan for Indonesia 3GB,0,0,Asia,TD,3,30,Esim-Go,esimg_3GB_30D_ID_U,7.5,6.5,5.5,0,0
+694,Plan for Ireland 3GB,0,0,Europe,IE,3,30,Esim-Go,esimg_3GB_30D_IE_U,12.5,4.7,4,0,0
+695,Plan for Israel 3GB,0,0,Middle East,IL,3,30,Esim-Go,esimg_3GB_30D_IL_U,11,7.5,6.3,0,0
+696,Plan for Italy 3GB,0,0,Europe,IT,3,30,Esim-Go,esimg_3GB_30D_IT_U,12.5,4.7,4,0,0
+699,Plan for Kazakhstan 3GB,0,0,Asia,KZ,3,30,Esim-Go,esimg_3GB_30D_KZ_U,10,7.5,6.3,0,0
+700,Plan for Jordan 3GB,0,0,Middle East,JO,3,30,Esim-Go,esimg_3GB_30D_JO_U,18,11.1,9.4,0,0
+701,Plan for Korea 3GB,0,0,Asia,KR,3,30,Esim-Go,esimg_3GB_30D_KR_U,10,7.5,6.3,0,0
+702,Plan for Kenya 3GB,0,0,Africa,KE,3,30,Esim-Go,esimg_3GB_30D_KE_U,20,14.3,12.1,0,0
+703,Plan for Kosovo 3GB,0,0,Eastern Europe,XK,3,30,AIRALO,kosnet-30days-3gb,17.5,16,16,1,0
+705,Plan for Kuwait 3GB,0,0,Middle East,KW,3,30,Esim-Go,esimg_3GB_30D_KW_U,15,11.1,9.4,0,0
+706,Plan for Latvia 3GB,0,0,Eastern Europe,LV,3,30,Esim-Go,esimg_3GB_30D_LV_U,10,4.7,4,0,0
+707,Plan for Liberia 3GB,0,0,Africa,LR,3,30,Esim-Go,esimg_3GB_30D_LR_U,35,31.2,26.5,0,0
+708,Plan for Liechtenstein 3GB,0,0,Europe,LI,3,30,Esim-Go,esimg_3GB_30D_LI_U,12.5,4.7,4,0,0
+709,Plan for Lithuania 3GB,0,0,Europe,LT,3,30,Esim-Go,esimg_3GB_30D_LT_U,12.5,4.7,4,0,0
+710,Plan for Luxembourg 3GB,0,0,Europe,LU,3,30,Esim-Go,esimg_3GB_30D_LU_U,12.5,4.7,4,0,0
+711,Plan for Macau 3GB,0,0,Asia,MO,3,30,Esim-Go,esimg_3GB_30D_MO_U,7.5,4.7,5.5,0,0
+712,Plan for Malaysia 3GB,0,0,Asia,MY,3,30,Esim-Go,esimg_3GB_30D_MY_U,10,7.5,6.3,0,0
+713,Plan for Macedonia 3GB,0,0,Eastern Europe,MK,3,30,Esim-Go,esimg_3GB_30D_MK_U,12.5,11.1,9.4,0,0
+714,Plan for Madagascar 3GB,0,0,Africa,MG,3,30,Esim-Go,esimg_3GB_30D_MG_U,20,17.7,15,0,0
+715,Plan for Malawi 3GB,0,0,Africa,MW,3,30,Esim-Go,esimg_3GB_30D_MW_U,35,31.2,26.5,0,0
+716,Plan for Mali 3GB,0,0,Africa,ML,3,30,Esim-Go,esimg_3GB_30D_ML_U,35,31.2,26.5,0,0
+717,Plan for Malta 3GB,0,0,Europe,MT,3,30,Esim-Go,esimg_3GB_30D_MT_U,12.5,4.7,4,0,0
+718,Plan for Mexico 3GB,0,0,LATM,MX,3,30,Esim-Go,esimg_3GB_30D_MX_U,7,6.5,9.4,0,0
+719,Plan for Mongolia 3GB,0,0,Asia,MN,3,30,AIRALO,mongo-mobile-fiber-30days-3gb,25,24,24,1,0
+720,Plan for Moldova 3GB,0,0,Eastern Europe,MD,3,30,AIRALO,soroca-mobile-30days-3gb,15,13.5,13.5,1,0
+721,Plan for Montenegro 3GB,0,0,Eastern Europe,ME,3,30,AIRALO,jezero-30days-3gb,15,15,15,1,0
+722,Plan for Morocco 3GB,0,0,Africa,MA,3,30,Esim-Go,esimg_3GB_30D_MA_U,25,23.1,19.6,0,0
+727,Plan for Netherlands 3GB,0,0,Europe,NL,3,30,Esim-Go,esimg_3GB_30D_NL_U,12.5,4.7,4,0,0
+728,Plan for New Zealand 3GB,0,0,Oceania,NZ,3,30,Esim-Go,esimg_3GB_30D_NZ_U,12.5,4.7,5.5,0,0
+729,Plan for Nicaragua 3GB,0,0,LATM,NI,3,30,Esim-Go,esimg_3GB_30D_NI_U,18,17.7,15,0,0
+730,Plan for Niger 3GB,0,0,Africa,NE,3,30,Esim-Go,esimg_3GB_30D_NE_U,35,31.2,26.5,0,0
+731,Plan for Nigeria 3GB,0,0,Africa,NG,3,30,Esim-Go,esimg_3GB_30D_NG_U,22,17.7,15,0,0
+732,Plan for Norway 3GB,0,0,Europe,NO,3,30,Esim-Go,esimg_3GB_30D_NO_U,12.5,4.7,4,0,0
+733,Plan for Pakistan 3GB,0,0,Asia,PK,3,30,Esim-Go,esimg_3GB_30D_PK_U,12.5,7.5,6.3,0,0
+734,Plan for Oman 3GB,0,0,Middle East,OM,3,30,Esim-Go,esimg_3GB_30D_RO_U,15,11.1,4,0,0
+735,Plan for Panama 3GB,0,0,LATM,PA,3,30,Esim-Go,esimg_3GB_30D_PA_U,18,17.7,15,0,0
+736,Plan for Paraguay 3GB,0,0,LATM,PY,3,30,Esim-Go,esimg_3GB_30D_PY_U,25,23.1,19.6,0,0
+737,Plan for Peru 3GB,0,0,LATM,PE,3,30,Esim-Go,esimg_3GB_30D_PE_U,18,17.7,15,0,0
+739,Plan for Poland 3GB,0,0,Europe,PL,3,30,Esim-Go,esimg_5GB_30D_PL_U,12.5,4.7,5.8,0,0
+740,Plan for Portugal 3GB,0,0,Europe,PT,3,30,Esim-Go,esimg_3GB_30D_PT_U,12.5,4.7,4,0,0
+741,Plan for Puerto Rico 3GB,0,0,LATM,PR,3,30,AIRALO,boricua-mobile-30days-3gb,11,11,11,1,0
+742,Plan for Qatar 3GB,0,0,Middle East,QA,3,30,AIRALO,pearl-mobile-30days-3gb,12,12,12,1,0
+743,Plan for Réunion 3GB,0,0,Africa,RE,3,30,Esim-Go,esimg_3GB_30D_RE_U,22,17.7,15,0,0
+744,Plan for Romania 3GB,0,0,Eastern Europe,RO,3,30,Esim-Go,esimg_3GB_30D_RO_U,10,4.7,4,0,0
+745,Plan for Russia 3GB,0,0,Eastern Europe,RU,3,30,Esim-Go,esimg_3GB_30D_RU_U,10,6.5,5.5,0,0
+747,Plan for Saudi Arabia 3GB,0,0,Middle East,SA,3,30,Esim-Go,esimg_3GB_30D_SA_U,15,11.1,9.4,0,0
+749,Plan for Serbia 3GB,0,0,Eastern Europe,RS,3,30,Esim-Go,esimg_3GB_30D_RS_U,12.5,11.1,9.4,0,0
+750,Plan for Seychelles 3GB,0,0,Africa,SC,3,30,Esim-Go,esimg_3GB_30D_SC_U,22,17.7,15,0,0
+752,Plan for Singapore 3GB,0,0,Asia,SG,3,30,Esim-Go,esimg_3GB_30D_SG_U,12.5,4.7,5.5,0,0
+753,Plan for Slovakia 3GB,0,0,Eastern Europe,SK,3,30,Esim-Go,esimg_3GB_30D_SK_U,12.5,4.7,4,0,0
+754,Plan for Slovenia 3GB,0,0,Eastern Europe,SI,3,30,Esim-Go,esimg_3GB_30D_SI_U,12.5,4.7,4,0,0
+755,Plan for South Africa 3GB,0,0,Africa,ZA,3,30,AIRALO,cellsa-30days-3gb,12.5,11,11,1,0
+757,Plan for Spain 3GB,0,0,Europe,ES,3,30,Esim-Go,esimg_3GB_30D_ES_U,12.5,4.7,4,0,0
+758,Plan for Sri Lanka 3GB,0,0,Asia,LK,3,30,Esim-Go,esimg_3GB_30D_LK_U,10,7.5,6.3,0,0
+760,Plan for Sweden 3GB,0,0,Europe,SE,3,30,Esim-Go,esimg_3GB_30D_SE_U,12.5,4.7,4,0,0
+761,Plan for Switzerland 3GB,0,0,Europe,CH,3,30,Esim-Go,esimg_3GB_30D_CH_U,12.5,4.7,4,0,0
+763,Plan for Tanzania 3GB,0,0,Africa,TZ,3,30,Esim-Go,esimg_3GB_30D_TZ_U,20,14.3,12.1,0,0
+764,Plan for Thailand 3GB,0,0,Asia,TH,3,30,Esim-Go,esimg_3GB_30D_TH_U,7.5,4.7,5.5,0,0
+765,Plan for Tonga 3GB,0,0,Oceania,TO,3,30,AIRALO,tofua-mobile-30days-3gb,25,24,24,1,0
+767,Plan for Turkey 3GB,0,0,Europe,TR,3,30,Esim-Go,esimg_3GB_30D_TR_U,12.5,4.7,4,0,0
+768,Plan for Uganda 3GB,0,0,Africa,UG,3,30,Esim-Go,esimg_3GB_30D_UG_U,20,14.3,12.1,0,0
+769,Plan for Ukraine 3GB,0,0,Europe,UA,3,30,Esim-Go,esimg_3GB_30D_UA_U,12.5,4.7,4,0,0
+770,Plan for United Arab Emirates 3GB,0,0,Middle East,AE,3,30,Esim-Go,esimg_3GB_30D_AE_U,22.5,7.5,6.3,0,0
+771,Plan for United Kingdom 3GB,0,0,Europe,GB,3,30,Esim-Go,esimg_3GB_30D_GB_U,10,4.7,4,0,0
+772,Plan for Uruguay 3GB,0,0,LATM,UY,3,30,Esim-Go,esimg_3GB_30D_UY_U,18,17.7,15,0,0
+774,Plan for Uzbekistan 3GB,0,0,Middle East,UZ,3,30,Esim-Go,esimg_3GB_30D_UZ_U,10,7.5,6.3,0,0
+776,Plan for Venezuela 3GB,0,0,LATM,VE,3,30,AIRALO,aragua-mobile-30days-3gb,26,25.5,25.5,1,0
+777,Plan for Vietnam 3GB,0,0,Asia,VN,3,30,Esim-Go,esimg_3GB_30D_VN_U,10,7.5,6.3,0,0
+778,Plan for Yemen 3GB,0,0,Middle East,YE,3,30,Esim-Go,esimg_3GB_30D_YE_U,20,17.7,15,0,0
+779,Plan for Zambia 3GB,0,0,Africa,ZM,3,30,Esim-Go,esimg_3GB_30D_ZM_U,20,17.7,15,0,0
+781,Plan for Albania 5GB,0,0,Eastern Europe,AL,5,30,AIRALO,hej-telecom-30days-5gb,30,26.5,13,1,0
+782,Plan for Algeria 5GB,0,0,Africa,DZ,5,30,AIRALO,algecom-30days-5gb,30,26.5,27,1,0
+783,Plan for Andorra 5GB,0,0,Europe,AD,5,30,AIRALO,handi-30days-5gb,17.5,15,15,1,0
+784,Plan for Argentina 5GB,0,0,LATM,AR,5,30,Esim-Go,esimg_5GB_30D_AR_U,30,27.1,23,0,0
+785,Plan for Armenia 5GB,0,0,Middle East,AM,5,30,AIRALO,arpi-telecom-30days-5gb,30,26,26,1,0
+786,Plan for Australia 5GB,0,0,Oceania,AU,5,30,Esim-Go,esimg_5GB_30D_AU_U,10,6.9,8.6,0,0
+787,Plan for Austria 5GB,0,0,Europe,AT,5,30,Esim-Go,esimg_5GB_30D_AT_U,17.5,6.9,5.8,0,0
+788,Plan for Azerbaijan 5GB,0,0,Middle East,AZ,5,30,Esim-Go,esimg_5GB_30D_AZ_U,30,27.1,23,0,0
+789,Plan for Bahrain 5GB,0,0,Middle East,BH,5,30,AIRALO,saar-mobile-30days-5gb,18,18,18,1,0
+791,Plan for Bangladesh 5GB,0,0,Asia,BD,5,30,AIRALO,fatafati-30days-5gb,13,13,13,1,0
+792,Plan for Belgium 5GB,0,0,Europe,BE,5,30,Esim-Go,esimg_5GB_30D_BE_U,17.5,6.9,5.8,0,0
+794,Plan for Bolivia 5GB,0,0,LATM,BO,5,30,Esim-Go,esimg_5GB_30D_BO_U,35,33.9,28.8,0,0
+795,Plan for Bosnia and Herzegovina 5GB,0,0,Eastern Europe,BA,5,30,AIRALO,bosher-30days-5gb,15,13,13,1,0
+796,Plan for Botswana 5GB,0,0,Africa,BW,5,30,AIRALO,maun-telecom-30days-5gb,32,30.5,30.5,1,0
+797,Plan for Brazil 5GB,0,0,LATM,BR,5,30,Esim-Go,esimg_5GB_30D_BR_U,18,17.7,15,0,0
+798,Plan for Brunei Darussalam 5GB,0,0,Middle East,BN,5,7,AIRALO,muara-mobile-30days-5gb,27,27,27,1,0
+799,Plan for Bulgaria 5GB,0,0,Europe,BG,5,30,Esim-Go,esimg_5GB_30D_BG_U,17.5,6.9,5.8,0,0
+801,Plan for Cambodia 5GB,0,0,Asia,KH,5,30,AIRALO,connect-cambodia-30days-5gb,13.5,13.5,13.5,1,0
+802,Plan for Cameroon 5GB,0,0,Africa,CM,5,30,Esim-Go,esimg_5GB_30D_CM_U,38,33.9,28.8,0,0
+803,Plan for Canada 5GB,0,0,North America,CA,5,30,Esim-Go,esimg_5GB_30D_CA_U,18,17.7,15,0,0
+804,Plan for Central African Republic 5GB,0,0,Africa,CF,5,30,Esim-Go,esimg_5GB_30D_CF_U,50,47.4,40.3,0,0
+805,Plan for Chad 5GB,0,0,Africa,TD,5,30,Esim-Go,esimg_5GB_30D_TD_U,34,27.1,23,0,0
+806,Plan for Chile 5GB,0,0,LATM,CL,5,30,Esim-Go,esimg_5GB_30D_CL_U,18,17.7,15,0,0
+808,Plan for Colombia 5GB,0,0,LATM,CO,5,30,Esim-Go,esimg_5GB_30D_CO_U,35,33.9,28.8,0,0
+809,Plan for Congo 5GB,0,0,Africa,CG,5,30,Esim-Go,esimg_5GB_30D_CD_U,34,27.1,23,0,0
+810,Plan for Costa Rica 5GB,0,0,LATM,CR,5,30,Esim-Go,esimg_5GB_30D_CR_U,28,27.1,23,0,0
+811,Plan for Croatia 5GB,0,0,Eastern Europe,HR,5,30,Esim-Go,esimg_5GB_30D_HR_U,10,6.9,5.8,0,0
+812,Plan for Cyprus 5GB,0,0,Europe,CY,5,30,Esim-Go,esimg_5GB_30D_CY_U,17.5,6.9,5.8,0,0
+813,Plan for Czech Republic 5GB,0,0,Europe,CZ,5,30,Esim-Go,esimg_5GB_30D_CZ_U,17.5,6.9,5.8,0,0
+814,Plan for Denmark 5GB,0,0,Europe,DK,5,30,Esim-Go,esimg_5GB_30D_DK_U,17.5,6.9,5.8,0,0
+816,Plan for Ecuador 5GB,0,0,LATM,EC,5,30,Esim-Go,esimg_5GB_30D_EC_U,28,27.1,23,0,0
+817,Plan for Egypt 5GB,0,0,Africa,EG,5,30,Esim-Go,esimg_5GB_30D_EG_U,34,27.1,23,0,0
+818,Plan for El Salvador 5GB,0,0,LATM,SV,5,30,Esim-Go,esimg_5GB_30D_SV_U,28,27.1,23,0,0
+819,Plan for Estonia 5GB,0,0,Europe,EE,5,30,Esim-Go,esimg_5GB_30D_EE_U,17.5,6.9,5.8,0,0
+821,Plan for Finland 5GB,0,0,Europe,FI,5,30,Esim-Go,esimg_5GB_30D_FI_U,17.5,6.9,5.8,0,0
+822,Plan for France 5GB,0,0,Europe,FR,5,30,Esim-Go,esimg_5GB_30D_FR_U,17.5,6.9,5.8,0,0
+823,Plan for Gabon 5GB,0,0,Africa,GA,5,30,Esim-Go,esimg_5GB_30D_GA_U,48,47.4,40.3,0,0
+824,Plan for Georgia 5GB,0,0,Eastern Europe,GE,5,30,AIRALO,kargi-mobile-30days-5gb,25,20,20,1,0
+825,Plan for Germany 5GB,0,0,Europe,DE,5,30,Esim-Go,esimg_5GB_30D_DE_U,17.5,6.9,5.8,0,0
+826,Plan for Ghana 5GB,0,0,Africa,GH,5,30,Esim-Go,esimg_5GB_30D_GH_U,48,47.4,40.3,0,0
+827,Plan for Gibraltar (UK) 5GB,0,0,Europe,GI,5,30,Esim-Go,esimg_5GB_30D_GI_U,17.5,6.9,23,0,0
+828,Plan for Greece 5GB,0,0,Europe,GR,5,30,Esim-Go,esimg_5GB_30D_GR_U,17.5,6.9,5.8,0,0
+829,Plan for Guatemala 5GB,0,0,LATM,GT,5,30,Esim-Go,esimg_5GB_30D_GT_U,35,33.9,28.8,0,0
+830,Plan for Guinea Bissau 5GB,0,0,Africa,GW,5,30,Esim-Go,esimg_5GB_30D_GW_U,65,64.7,40.3,0,0
+831,Plan for Honduras 5GB,0,0,LATM,HN,5,30,AIRALO,honnet-30days-5gb,38,37.5,37.5,1,0
+832,Plan for Hong Kong 5GB,0,0,Asia,HK,5,30,Esim-Go,esimg_5GB_30D_HK_U,10,6.9,8.6,0,0
+833,Plan for Hungary 5GB,0,0,Europe,HU,5,30,Esim-Go,esimg_5GB_30D_HU_U,17.5,6.9,5.8,0,0
+834,Plan for Iceland 5GB,0,0,Europe,IS,5,30,Esim-Go,esimg_5GB_30D_IS_U,17.5,6.9,5.8,0,0
+835,Plan for India 5GB,0,0,Asia,IN,5,30,AIRALO,indidcomm-30days-5gb,16,16,16,1,0
+838,Plan for Israel 5GB,0,0,Middle East,IL,5,30,Esim-Go,esimg_5GB_30D_IL_U,13.5,11.6,9.8,0,0
+839,Plan for Italy 5GB,0,0,Europe,IT,5,30,Esim-Go,esimg_5GB_30D_IT_U,17.5,6.9,5.8,0,0
+842,Plan for Kazakhstan 5GB,0,0,Asia,KZ,5,30,Esim-Go,esimg_5GB_30D_KZ_U,12.5,11.6,9.8,0,0
+843,Plan for Jordan 5GB,0,0,Middle East,JO,5,30,Esim-Go,esimg_5GB_30D_JO_U,22,17.7,15,0,0
+844,Plan for Korea 5GB,0,0,Asia,KR,5,30,Esim-Go,esimg_5GB_30D_KR_U,12.5,11.6,9.8,0,0
+845,Plan for Kenya 5GB,0,0,Africa,KE,5,30,Esim-Go,esimg_5GB_30D_KE_U,23,21.7,18.4,0,0
+846,Plan for Kosovo 5GB,0,0,Eastern Europe,XK,5,30,AIRALO,kosnet-30days-5gb,25,24,24,1,0
+848,Plan for Kuwait 5GB,0,0,Middle East,KW,5,30,Esim-Go,esimg_5GB_30D_KW_U,22,17.7,15,0,0
+849,Plan for Latvia 5GB,0,0,Eastern Europe,LV,5,30,Esim-Go,esimg_5GB_30D_LV_U,15,6.9,5.8,0,0
+850,Plan for Liberia 5GB,0,0,Africa,LR,5,30,Esim-Go,esimg_5GB_30D_LR_U,48,47.4,40.3,0,0
+851,Plan for Liechtenstein 5GB,0,0,Europe,LI,5,30,Esim-Go,esimg_5GB_30D_LI_U,17.5,6.9,5.8,0,0
+852,Plan for Lithuania 5GB,0,0,Europe,LT,5,30,Esim-Go,esimg_5GB_30D_LT_U,17.5,6.9,5.8,0,0
+853,Plan for Luxembourg 5GB,0,0,Europe,LU,5,30,Esim-Go,esimg_5GB_30D_LU_U,17.5,6.9,5.8,0,0
+854,Plan for Macau 5GB,0,0,Asia,MO,5,30,Esim-Go,esimg_5GB_30D_MO_U,10,6.9,8.6,0,0
+855,Plan for Malaysia 5GB,0,0,Asia,MY,5,30,Esim-Go,esimg_5GB_30D_MY_U,12.5,11.6,9.8,0,0
+856,Plan for Macedonia 5GB,0,0,Eastern Europe,MK,5,30,Esim-Go,esimg_5GB_30D_MK_U,20,17.7,15,0,0
+857,Plan for Madagascar 5GB,0,0,Africa,MG,5,30,Esim-Go,esimg_5GB_30D_MG_U,34,27.1,23,0,0
+858,Plan for Malawi 5GB,0,0,Africa,MW,5,30,Esim-Go,esimg_5GB_30D_MW_U,48,47.4,40.3,0,0
+859,Plan for Mali 5GB,0,0,Africa,ML,5,30,Esim-Go,esimg_5GB_30D_ML_U,48,47.4,40.3,0,0
+860,Plan for Malta 5GB,0,0,Europe,MT,5,30,Esim-Go,esimg_5GB_30D_MT_U,17.5,6.9,5.8,0,0
+861,Plan for Mexico 5GB,0,0,LATM,MX,5,30,Esim-Go,esimg_5GB_30D_MX_U,12,10.2,15,0,0
+862,Plan for Mongolia 5GB,0,0,Asia,MN,5,30,AIRALO,mongo-mobile-fiber-30days-5gb,35,35,35,1,0
+863,Plan for Moldova 5GB,0,0,Eastern Europe,MD,5,30,AIRALO,soroca-mobile-30days-5gb,20,17,17,1,0
+864,Plan for Montenegro 5GB,0,0,Eastern Europe,ME,5,30,AIRALO,jezero-30days-5gb,20,17.5,17.5,1,0
+865,Plan for Morocco 5GB,0,0,Africa,MA,5,30,Esim-Go,esimg_5GB_30D_MA_U,35,33.9,28.8,0,0
+870,Plan for Netherlands 5GB,0,0,Europe,NL,5,30,Esim-Go,esimg_5GB_30D_NL_U,17.5,6.9,5.8,0,0
+871,Plan for New Zealand 5GB,0,0,Oceania,NZ,5,30,Esim-Go,esimg_5GB_30D_NZ_U,8,6.9,8.6,0,0
+872,Plan for Nicaragua 5GB,0,0,LATM,NI,5,30,Esim-Go,esimg_5GB_30D_NI_U,28,27.1,23,0,0
+873,Plan for Niger 5GB,0,0,Africa,NE,5,30,Esim-Go,esimg_5GB_30D_NE_U,48,47.4,40.3,0,0
+874,Plan for Nigeria 5GB,0,0,Africa,NG,5,30,Esim-Go,esimg_5GB_30D_NG_U,34,27.1,23,0,0
+875,Plan for Norway 5GB,0,0,Europe,NO,5,30,Esim-Go,esimg_5GB_30D_NO_U,17.5,6.9,5.8,0,0
+876,Plan for Pakistan 5GB,0,0,Asia,PK,5,30,Esim-Go,esimg_5GB_30D_PK_U,12.5,11.6,9.8,0,0
+877,Plan for Oman 5GB,0,0,Middle East,OM,5,30,Esim-Go,esimg_5GB_30D_OM_U,22,17.7,15,0,0
+878,Plan for Panama 5GB,0,0,LATM,PA,5,30,Esim-Go,esimg_5GB_30D_PA_U,28,27.1,23,0,0
+879,Plan for Paraguay 5GB,0,0,LATM,PY,5,30,Esim-Go,esimg_5GB_30D_PY_U,35,33.9,28.8,0,0
+880,Plan for Peru 5GB,0,0,LATM,PE,5,30,Esim-Go,esimg_5GB_30D_PE_U,18,17.7,23,0,0
+882,Plan for Poland 5GB,0,0,Europe,PL,5,30,Esim-Go,esimg_5GB_30D_PL_U,17.5,6.9,5.8,0,0
+883,Plan for Portugal 5GB,0,0,Europe,PT,5,30,Esim-Go,esimg_5GB_30D_PT_U,17.5,6.9,5.8,0,0
+884,Plan for Puerto Rico 5GB,0,0,LATM,PR,5,30,AIRALO,boricua-mobile-30days-5gb,16,16,16,1,0
+885,Plan for Qatar 5GB,0,0,Middle East,QA,5,30,AIRALO,pearl-mobile-30days-5gb,17.5,17.5,17.5,1,0
+886,Plan for Réunion 5GB,0,0,Africa,RE,5,30,Esim-Go,esimg_5GB_30D_RE_U,30,27.1,23,0,0
+887,Plan for Romania 5GB,0,0,Eastern Europe,RO,5,30,Esim-Go,esimg_5GB_30D_RO_U,20,6.9,5.8,0,0
+888,Plan for Russia 5GB,0,0,Eastern Europe,RU,5,30,Esim-Go,esimg_5GB_30D_RU_U,15,10.2,8.6,0,0
+890,Plan for Saudi Arabia 5GB,0,0,Middle East,SA,5,30,Esim-Go,esimg_5GB_30D_SA_U,25,17.7,15,0,0
+892,Plan for Serbia 5GB,0,0,Eastern Europe,RS,5,30,Esim-Go,esimg_5GB_30D_RS_U,20,17.7,15,0,0
+893,Plan for Seychelles 5GB,0,0,Africa,SC,5,30,Esim-Go,esimg_5GB_30D_SC_U,30,27.1,23,0,0
+895,Plan for Singapore 5GB,0,0,Asia,SG,5,30,Esim-Go,esimg_5GB_30D_SG_U,10,6.9,8.6,0,0
+896,Plan for Slovakia 5GB,0,0,Eastern Europe,SK,5,30,Esim-Go,esimg_5GB_30D_SK_U,15,6.9,5.8,0,0
+897,Plan for Slovenia 5GB,0,0,Eastern Europe,SI,5,30,Esim-Go,esimg_5GB_30D_SI_U,15,6.9,5.8,0,0
+898,Plan for South Africa 5GB,0,0,Africa,ZA,5,30,AIRALO,cellsa-30days-5gb,16,16,16,1,0
+900,Plan for Spain 5GB,0,0,Europe,ES,5,30,Esim-Go,esimg_5GB_30D_ES_U,17.5,6.9,5.8,0,0
+901,Plan for Sri Lanka 5GB,0,0,Asia,LK,5,30,Esim-Go,esimg_5GB_30D_LK_U,12.5,11.6,9.8,0,0
+903,Plan for Sweden 5GB,0,0,Europe,SE,5,30,Esim-Go,esimg_5GB_30D_SE_U,17.5,6.9,5.8,0,0
+904,Plan for Switzerland 5GB,0,0,Europe,CH,5,30,Esim-Go,esimg_5GB_30D_CH_U,17.5,6.9,5.8,0,0
+906,Plan for Tanzania 5GB,0,0,Africa,TZ,5,30,Esim-Go,esimg_5GB_30D_TZ_U,22.5,21.7,18.4,0,0
+907,Plan for Thailand 5GB,0,0,Asia,TH,5,30,Esim-Go,esimg_5GB_30D_TH_U,15,13.3,8.6,0,0
+909,Plan for Turkey 5GB,0,0,Europe,TR,5,30,Esim-Go,esimg_5GB_30D_TR_U,17.5,6.9,5.8,0,0
+910,Plan for Uganda 5GB,0,0,Africa,UG,5,30,Esim-Go,esimg_5GB_30D_UG_U,22.5,21.7,18.4,0,0
+911,Plan for Ukraine 5GB,0,0,Europe,UA,5,30,Esim-Go,esimg_5GB_30D_UA_U,17.5,6.9,5.8,0,0
+912,Plan for United Arab Emirates 5GB,0,0,Middle East,AE,5,30,Esim-Go,esimg_5GB_30D_AE_U,30,11.6,9.8,0,0
+912,Plan for United Arab Emirates 5GB,0,0,Middle East,AE,5,30,Esim-Go,esimg_5GB_30D_AE_U,30,11.6,9.8,0,0
+913,Plan for United Kingdom 5GB,0,0,Europe,GB,5,30,Esim-Go,esimg_5GB_30D_GB_U,15,6.9,5.8,0,0
+914,Plan for Uruguay 5GB,0,0,LATM,UY,5,30,Esim-Go,esimg_5GB_30D_UY_U,18,17.7,23,0,0
+915,Plan for USA 5GB,0,0,North America,US,5,30,Esim-Go,esimg_5GB_30D_US_U,16,10.2,8.6,0,0
+916,Plan for Uzbekistan 5GB,0,0,Middle East,UZ,5,30,Esim-Go,esimg_5GB_30D_UZ_U,15,11.6,9.8,0,0
+918,Plan for Venezuela 5GB,0,0,LATM,VE,5,30,AIRALO,aragua-mobile-30days-5gb,40,40,40,1,0
+919,Plan for Vietnam 5GB,0,0,Asia,VN,5,30,Esim-Go,esimg_5GB_30D_VN_U,12.5,11.6,9.8,0,0
+920,Plan for Yemen 5GB,0,0,Middle East,YE,5,30,Esim-Go,esimg_5GB_30D_YE_U,30,27.1,23,0,0
+921,Plan for Zambia 5GB,0,0,Africa,ZM,5,30,Esim-Go,esimg_5GB_30D_ZM_U,30,27.1,23,0,0
+923,Plan for Algeria 10GB,0,0,Africa,DZ,10,30,AIRALO,algecom-30days-10gb,50,49,49,1,0
+924,Plan for Andorra 10GB,0,0,Europe,AD,10,30,AIRALO,handi-30days-10gb,27.5,25,25,1,0
+925,Plan for Argentina 10GB,0,0,LATM,AR,10,30,Esim-Go,esimg_10GB_30D_AR_U,48,47.4,40.3,0,0
+926,Plan for Armenia 10GB,0,0,Middle East,AM,10,30,Esim-Go,esimg_10GB_30D_AM_U,50,47.4,40.3,0,0
+927,Plan for Australia 10GB,0,0,Oceania,AU,10,30,Esim-Go,esimg_10GB_30D_AU_U,12,11.6,15,0,0
+928,Plan for Austria 10GB,0,0,Europe,AT,10,30,Esim-Go,esimg_10GB_30D_AT_U,27.5,11.6,9.8,0,0
+929,Plan for Azerbaijan 10GB,0,0,Middle East,AZ,10,30,Esim-Go,esimg_10GB_30D_AZ_U,50,47.4,40.3,0,0
+930,Plan for Bangladesh 10GB,0,0,Asia,BD,10,30,AIRALO,fatafati-30days-10gb,22.5,22,22,1,0
+931,Plan for Belgium 10GB,0,0,Europe,BE,10,30,Esim-Go,esimg_10GB_30D_BE_U,27.5,11.6,9.8,0,0
+932,Plan for Bolivia 10GB,0,0,LATM,BO,10,30,Esim-Go,esimg_10GB_30D_BO_U,65,60.9,51.8,0,0
+933,Plan for Bosnia and Herzegovina 10GB,0,0,Eastern Europe,BA,10,30,AIRALO,bosher-30days-10gb,21,21,21,1,0
+935,Plan for Brazil 10GB,0,0,LATM,BR,10,30,Esim-Go,esimg_10GB_30D_BR_U,32,31.1,26.5,0,0
+936,Plan for Brunei Darussalam 10GB,0,0,Middle East,BN,10,7,Esim-Go,esimg_10GB_30D_BN_U,70,60.9,51.8,0,0
+937,Plan for Bulgaria 10GB,0,0,Europe,BG,10,30,Esim-Go,esimg_10GB_30D_BG_U,27.5,11.6,9.8,0,0
+939,Plan for Cameroon 10GB,0,0,Africa,CM,10,30,Esim-Go,esimg_10GB_30D_CM_U,65,60.9,51.8,0,0
+940,Plan for Canada 10GB,0,0,North America,CA,10,30,Esim-Go,esimg_10GB_30D_CA_U,35,31.2,26.5,0,0
+942,Plan for Chad 10GB,0,0,Africa,TD,10,30,Esim-Go,esimg_10GB_30D_TD_U,50,47.4,40.3,0,0
+943,Plan for Chile 10GB,0,0,LATM,CL,10,30,Esim-Go,esimg_10GB_30D_CL_U,32,31.1,26.5,0,0
+945,Plan for Colombia 10GB,0,0,LATM,CO,10,30,Esim-Go,esimg_10GB_30D_CO_U,65,60.9,51.8,0,0
+946,Plan for Congo 10GB,0,0,Africa,CG,10,30,Esim-Go,esimg_10GB_30D_CD_U,50,47.4,40.3,0,0
+947,Plan for Costa Rica 10GB,0,0,LATM,CR,10,30,Esim-Go,esimg_10GB_30D_CR_U,48,47.4,40.3,0,0
+948,Plan for Croatia 10GB,0,0,Eastern Europe,HR,10,30,Esim-Go,esimg_10GB_30D_HR_U,12.5,11.6,9.8,0,0
+949,Plan for Cyprus 10GB,0,0,Europe,CY,10,30,Esim-Go,esimg_10GB_30D_CY_U,27.5,11.6,9.8,0,0
+950,Plan for Czech Republic 10GB,0,0,Europe,CZ,10,30,Esim-Go,esimg_10GB_30D_CZ_U,27.5,11.6,9.8,0,0
+951,Plan for Denmark 10GB,0,0,Europe,DK,10,30,Esim-Go,esimg_10GB_30D_DK_U,27.5,11.6,9.8,0,0
+953,Plan for Ecuador 10GB,0,0,LATM,EC,10,30,Esim-Go,esimg_10GB_30D_EC_U,48,47.4,40.3,0,0
+954,Plan for Egypt 10GB,0,0,Africa,EG,10,30,Esim-Go,esimg_10GB_30D_EG_U,75,47.4,40.3,0,0
+955,Plan for El Salvador 10GB,0,0,LATM,SV,10,30,Esim-Go,esimg_10GB_30D_SV_U,48,47.4,40.3,0,0
+956,Plan for Estonia 10GB,0,0,Europe,EE,10,30,Esim-Go,esimg_10GB_30D_EE_U,27.5,11.6,9.8,0,0
+958,Plan for Finland 10GB,0,0,Europe,FI,10,30,Esim-Go,esimg_10GB_30D_FI_U,27.5,11.6,9.8,0,0
+959,Plan for France 10GB,0,0,Europe,FR,10,30,Esim-Go,esimg_10GB_30D_FR_U,27.5,11.6,9.8,0,0
+960,Plan for Georgia 10GB,0,0,Eastern Europe,GE,10,30,AIRALO,kargi-mobile-30days-10gb,35,35,35,1,0
+961,Plan for Germany 10GB,0,0,Europe,DE,10,30,Esim-Go,esimg_10GB_30D_DE_U,27.5,11.6,9.8,0,0
+963,Plan for Gibraltar (UK) 10GB,0,0,Europe,GI,10,30,Esim-Go,esimg_10GB_30D_GI_U,27.5,47.4,40.3,0,0
+964,Plan for Greece 10GB,0,0,Europe,GR,10,30,Esim-Go,esimg_10GB_30D_GR_U,27.5,11.6,9.8,0,0
+965,Plan for Guatemala 10GB,0,0,LATM,GT,10,30,Esim-Go,esimg_10GB_30D_GT_U,61,60.9,51.8,0,0
+967,Plan for Hong Kong 10GB,0,0,Asia,HK,10,30,Esim-Go,esimg_10GB_30D_HK_U,12.5,11.6,15,0,0
+968,Plan for Hungary 10GB,0,0,Europe,HU,10,30,Esim-Go,esimg_10GB_30D_HU_U,27.5,11.6,9.8,0,0
+969,Plan for Iceland 10GB,0,0,Europe,IS,10,30,Esim-Go,esimg_10GB_30D_IS_U,27.5,11.6,9.8,0,0
+970,Plan for India 10GB,0,0,Asia,IN,10,30,AIRALO,indicomm-30days-10gb,27,27,27,1,0
+971,Plan for Indonesia 10GB,0,0,Asia,TD,10,30,Esim-Go,esimg_10GB_30D_ID_U,20,17.7,15,0,0
+972,Plan for Ireland 10GB,0,0,Europe,IE,10,30,Esim-Go,esimg_10GB_30D_IE_U,27.5,11.6,9.8,0,0
+974,Plan for Italy 10GB,0,0,Europe,IT,10,30,Esim-Go,esimg_10GB_30D_IT_U,27.5,11.6,9.8,0,0
+977,Plan for Kazakhstan 10GB,0,0,Asia,KZ,10,30,Esim-Go,esimg_10GB_30D_KZ_U,22.5,20.4,17.3,0,0
+978,Plan for Jordan 10GB,0,0,Middle East,JO,10,30,Esim-Go,esimg_10GB_30D_JO_U,35,31.2,26.5,0,0
+979,Plan for Korea 10GB,0,0,Asia,KR,10,30,Esim-Go,esimg_10GB_30D_KR_U,22.5,20.4,17.3,0,0
+980,Plan for Kenya 10GB,0,0,Africa,KE,10,30,Esim-Go,esimg_10GB_30D_KE_U,40,37.9,32.2,0,0
+982,Plan for Kuwait 10GB,0,0,Middle East,KW,10,30,Esim-Go,esimg_10GB_30D_KW_U,35,31.2,26.5,0,0
+983,Plan for Latvia 10GB,0,0,Eastern Europe,LV,10,30,Esim-Go,esimg_10GB_30D_LV_U,27.5,11.6,9.8,0,0
+984,Plan for Liechtenstein 10GB,0,0,Europe,LI,10,30,Esim-Go,esimg_10GB_30D_LI_U,27.5,11.6,9.8,0,0
+987,Plan for Macau 10GB,0,0,Asia,MO,10,30,Esim-Go,esimg_10GB_30D_MO_U,27.5,11.6,15,0,0
+988,Plan for Malaysia 10GB,0,0,Asia,MY,10,30,Esim-Go,esimg_10GB_30D_MO_U,27.5,11.6,15,0,0
+989,Plan for Macedonia 10GB,0,0,Eastern Europe,MK,10,30,Esim-Go,esimg_10GB_30D_MK_U,32,31.2,26.5,0,0
+990,Plan for Madagascar 10GB,0,0,Africa,MG,10,30,Esim-Go,esimg_10GB_30D_MG_U,50,47.4,40.3,0,0
+991,Plan for Malta 10GB,0,0,Europe,MT,10,30,Esim-Go,esimg_10GB_30D_MT_U,27.5,11.6,9.8,0,0
+992,Plan for Mexico 10GB,0,0,LATM,MX,10,30,Esim-Go,esimg_10GB_30D_MX_U,18,17.7,26.5,0,0
+993,Plan for Morocco 10GB,0,0,Africa,MA,10,30,Esim-Go,esimg_10GB_30D_MA_U,65,60.9,51.8,0,0
+997,Plan for Netherlands 10GB,0,0,Europe,NL,10,30,Esim-Go,esimg_10GB_30D_NL_U,27.5,11.6,9.8,0,0
+998,Plan for New Zealand 10GB,0,0,Oceania,NZ,10,30,Esim-Go,esimg_10GB_30D_NZ_U,12,11.6,15,0,0
+999,Plan for Nicaragua 10GB,0,0,LATM,NI,10,30,Esim-Go,esimg_10GB_30D_NI_U,48,47.4,40.3,0,0
+1001,Plan for Nigeria 10GB,0,0,Africa,NG,10,30,Esim-Go,esimg_10GB_30D_NG_U,50,47.4,40.3,0,0
+1002,Plan for Norway 10GB,0,0,Europe,NO,10,30,Esim-Go,esimg_10GB_30D_NO_U,27.5,11.6,9.8,0,0
+1003,Plan for Pakistan 10GB,0,0,Asia,PK,10,30,Esim-Go,esimg_10GB_30D_PK_U,22.5,20.4,17.3,0,0
+1004,Plan for Oman 10GB,0,0,Middle East,OM,10,30,Esim-Go,esimg_10GB_30D_OM_U,35,31.2,26.5,0,0
+1005,Plan for Panama 10GB,0,0,LATM,PA,10,30,Esim-Go,esimg_10GB_30D_PA_U,48,47.4,40.3,0,0
+1006,Plan for Paraguay 10GB,0,0,LATM,PY,10,30,Esim-Go,esimg_10GB_30D_PY_U,61,60.9,51.8,0,0
+1007,Plan for Peru 10GB,0,0,LATM,PE,10,30,Esim-Go,esimg_10GB_30D_PE_U,48,47.4,40.3,0,0
+1009,Plan for Poland 10GB,0,0,Europe,PL,10,30,Esim-Go,esimg_10GB_30D_PL_U,27.5,11.6,9.8,0,0
+1010,Plan for Portugal 10GB,0,0,Europe,PT,10,30,Esim-Go,esimg_10GB_30D_PT_U,27.5,11.6,9.8,0,0
+1011,Plan for Puerto Rico 10GB,0,0,LATM,PR,10,30,AIRALO,boricua-mobile-30days-10gb,25,25,25,1,0
+1012,Plan for Qatar 10GB,0,0,Middle East,QA,10,30,AIRALO,pearl-mobile-30days-10gb,30,30,30,1,0
+1013,Plan for Réunion 10GB,0,0,Africa,RE,10,30,Esim-Go,esimg_10GB_30D_RE_U,50,47.4,40.3,0,0
+1014,Plan for Romania 10GB,0,0,Eastern Europe,RO,10,30,Esim-Go,esimg_10GB_30D_RO_U,22,11.6,9.8,0,0
+1015,Plan for Russia 10GB,0,0,Eastern Europe,RU,10,30,Esim-Go,esimg_10GB_30D_RU_U,20,17.7,15,0,0
+1017,Plan for Saudi Arabia 10GB,0,0,Middle East,SA,10,30,Esim-Go,esimg_10GB_30D_SA_U,35,31.2,26.5,0,0
+1019,Plan for Serbia 10GB,0,0,Eastern Europe,RS,10,30,Esim-Go,esimg_10GB_30D_RS_U,7.5,31.2,26.5,0,0
+1020,Plan for Seychelles 10GB,0,0,Africa,SC,10,30,Esim-Go,esimg_10GB_30D_SC_U,50,47.4,40.3,0,0
+1022,Plan for Singapore 10GB,0,0,Asia,SG,10,30,Esim-Go,esimg_10GB_30D_SG_U,12.5,11.6,15,0,0
+1023,Plan for Slovakia 10GB,0,0,Eastern Europe,SK,10,30,Esim-Go,esimg_10GB_30D_SK_U,22,11.6,9.8,0,0
+1024,Plan for Slovenia 10GB,0,0,Eastern Europe,SI,10,30,Esim-Go,esimg_10GB_30D_SI_U,22,11.6,9.8,0,0
+1025,Plan for South Africa 10GB,0,0,Africa,ZA,10,30,AIRALO,cellsa-30days-10gb,30,27,27,1,0
+1027,Plan for Spain 10GB,0,0,Europe,ES,10,30,Esim-Go,esimg_10GB_30D_ES_U,27.5,11.6,9.8,0,0
+1028,Plan for Sri Lanka 10GB,0,0,Asia,LK,10,30,Esim-Go,esimg_10GB_30D_LK_U,22.5,20.4,17.3,0,0
+1029,Plan for Sweden 10GB,0,0,Europe,SE,10,30,Esim-Go,esimg_10GB_30D_SE_U,27.5,11.6,9.8,0,0
+1030,Plan for Switzerland 10GB,0,0,Europe,CH,10,30,Esim-Go,esimg_10GB_30D_CH_U,27.5,11.6,9.8,0,0
+1032,Plan for Tanzania 10GB,0,0,Africa,TZ,10,30,Esim-Go,esimg_10GB_30D_TZ_U,42,37.9,32.2,0,0
+1035,Plan for Turkey 10GB,0,0,Europe,TR,10,30,Esim-Go,esimg_10GB_30D_TR_U,27.5,11.6,9.8,0,0
+1036,Plan for Uganda 10GB,0,0,Africa,UG,10,30,Esim-Go,esimg_10GB_30D_UG_U,42,37.9,32.2,0,0
+1037,Plan for Ukraine 10GB,0,0,Europe,UA,10,30,Esim-Go,esimg_10GB_30D_UA_U,27.5,11.6,9.8,0,0
+1038,Plan for United Arab Emirates 10GB,0,0,Middle East,AE,10,30,Esim-Go,esimg_10GB_30D_AE_U,35,20.4,17.3,0,0
+1039,Plan for United Kingdom 10GB,0,0,Europe,GB,10,30,Esim-Go,esimg_10GB_30D_GB_U,22.5,11.6,9.8,0,0
+1040,Plan for Uruguay 10GB,0,0,LATM,UY,10,30,Esim-Go,esimg_10GB_30D_UY_U,48,47.4,40.3,0,0
+1041,Plan for USA 10GB,0,0,North America,US,10,30,Esim-Go,esimg_10GB_30D_US_U,25,17.7,15,0,0
+1042,Plan for Uzbekistan 10GB,0,0,Middle East,UZ,10,30,Esim-Go,esimg_10GB_30D_UZ_U,25,20.4,17.3,0,0
+1044,Plan for Vietnam 10GB,0,0,Asia,VN,10,30,Esim-Go,esimg_10GB_30D_VN_U,22.5,20.4,17.3,0,0
+1045,Plan for Yemen 10GB,0,0,Middle East,YE,10,30,Esim-Go,esimg_10GB_30D_YE_U,50,47.4,40.3,0,0
+1046,Plan for Zambia 10GB,0,0,Africa,ZM,10,30,Esim-Go,esimg_10GB_30D_ZM_U,50,47.4,40.3,0,0
+1049,Plan for Armenia 20GB,0,0,Middle East,AM,20,30,Esim-Go,esimg_20GB_30D_AM_U,85,82,69,0,0
+1050,Plan for Australia 20GB,0,0,Oceania,AU,20,30,Esim-Go,esimg_20GB_30D_AU_U,21,21,26.5,0,0
+1051,Plan for Austria 20GB,0,0,Europe,AT,20,30,Esim-Go,esimg_20GB_30D_AT_U,35,21,17.3,0,0
+1052,Plan for Azerbaijan 20GB,0,0,Middle East,AZ,20,30,Esim-Go,esimg_20GB_30D_AZ_U,85,82,69,0,0
+1053,Plan for Belgium 20GB,0,0,Europe,BE,20,30,Esim-Go,esimg_20GB_30D_BE_U,35,21,17.3,0,0
+1054,Plan for Bulgaria 20GB,0,0,Europe,BG,20,30,Esim-Go,esimg_20GB_30D_BG_U,35,21,17.3,0,0
+1055,Plan for Canada 20GB,0,0,North America,CA,20,30,Esim-Go,esimg_20GB_30D_CA_U,60,55,46,0,0
+1056,Plan for Cyprus 20GB,0,0,Europe,CY,20,30,Esim-Go,esimg_20GB_30D_CY_U,35,21,17.3,0,0
+1057,Plan for Czech Republic 20GB,0,0,Europe,CZ,20,30,Esim-Go,esimg_20GB_30D_CZ_U,35,21,17.3,0,0
+1058,Plan for Denmark 20GB,0,0,Europe,DK,20,30,Esim-Go,esimg_20GB_30D_DK_U,35,21,17.3,0,0
+1059,Plan for Egypt 20GB,0,0,Africa,EG,20,30,Esim-Go,esimg_20GB_30D_EG_U,100,82,69,0,0
+1060,Plan for Estonia 20GB,0,0,Europe,EE,20,30,Esim-Go,esimg_20GB_30D_EE_U,35,21,17.3,0,0
+1061,Plan for Finland 20GB,0,0,Europe,FI,20,30,Esim-Go,esimg_20GB_30D_FI_U,35,21,17.3,0,0
+1062,Plan for France 20GB,0,0,Europe,FR,20,30,Esim-Go,esimg_20GB_30D_FR_U,35,21,17.3,0,0
+1063,Plan for Germany 20GB,0,0,Europe,DE,20,30,Esim-Go,esimg_20GB_30D_DE_U,35,21,17.3,0,0
+1065,Plan for Greece 20GB,0,0,Europe,GR,20,30,Esim-Go,esimg_20GB_30D_GR_U,35,21,17.3,0,0
+1066,Plan for Hungary 20GB,0,0,Europe,HU,20,30,Esim-Go,esimg_20GB_30D_HU_U,35,21,17.3,0,0
+1067,Plan for Iceland 20GB,0,0,Europe,IS,20,30,Esim-Go,esimg_20GB_30D_IS_U,35,21,17.3,0,0
+1068,Plan for Ireland 20GB,0,0,Europe,IE,20,30,Esim-Go,esimg_20GB_30D_IE_U,35,21,17.3,0,0
+1070,Plan for Italy 20GB,0,0,Europe,IT,20,30,Esim-Go,esimg_20GB_30D_IT_U,35,21,17.3,0,0
+1071,Plan for Jordan 20GB,0,0,Middle East,JO,20,30,Esim-Go,esimg_20GB_30D_JO_U,60,55,46,0,0
+1072,Plan for Kuwait 20GB,0,0,Middle East,KW,20,30,Esim-Go,esimg_20GB_30D_KW_U,60,55,46,0,0
+1074,Plan for Lithuania 20GB,0,0,Europe,LT,20,30,Esim-Go,esimg_20GB_30D_LT_U,35,21,17.3,0,0
+1075,Plan for Luxembourg 20GB,0,0,Europe,LU,20,30,Esim-Go,esimg_20GB_30D_LU_U,35,21,17.3,0,0
+1076,Plan for Malta 20GB,0,0,Europe,MT,20,30,Esim-Go,esimg_20GB_30D_MT_U,35,21,17.3,0,0
+1077,Plan for Netherlands 20GB,0,0,Europe,NL,20,30,Esim-Go,esimg_20GB_30D_NL_U,35,21,17.3,0,0
+1078,Plan for New Zealand 20GB,0,0,Oceania,NZ,20,30,Esim-Go,esimg_20GB_30D_NZ_U,21,21,26.5,0,0
+1079,Plan for Oman 20GB,0,0,Middle East,OM,20,30,Esim-Go,esimg_20GB_30D_OM_U,50,46,46,0,0
+1080,Plan for Poland 20GB,0,0,Europe,PL,20,30,Esim-Go,esimg_20GB_30D_PL_U,35,21,17.3,0,0
+1081,Plan for Portugal 20GB,0,0,Europe,PT,20,30,Esim-Go,esimg_20GB_30D_PT_U,35,21,17.3,0,0
+1082,Plan for Qatar 20GB,0,0,Middle East,QA,20,30,AIRALO,pearl-mobile-30days-20gb,49,49,49,1,0
+1083,Plan for Saudi Arabia 20GB,0,0,Middle East,SA,20,30,Esim-Go,esimg_20GB_30D_SA_U,60,55,46,0,0
+1084,Plan for Spain 20GB,0,0,Europe,ES,20,30,Esim-Go,esimg_20GB_30D_ES_U,35,21,17.3,0,0
+1085,Plan for Sweden 20GB,0,0,Europe,SE,20,30,Esim-Go,esimg_20GB_30D_SE_U,35,21,17.3,0,0
+1086,Plan for Switzerland 20GB,0,0,Europe,CH,20,30,Esim-Go,esimg_20GB_30D_CH_U,35,21,17.3,0,0
+1087,Plan for Turkey 20GB,0,0,Europe,TR,20,30,Esim-Go,esimg_20GB_30D_TR_U,35,21,17.3,0,0
+1088,Plan for Ukraine 20GB,0,0,Europe,UA,20,30,Esim-Go,esimg_20GB_30D_UA_U,35,21,17.3,0,0
+1089,Plan for United Arab Emirates 20GB,0,0,Middle East,AE,20,30,Esim-Go,esimg_20GB_30D_AE_U,80,36,29.9,0,0
+1090,Plan for United Kingdom 20GB,0,0,Europe,GB,20,30,Esim-Go,esimg_20GB_30D_GB_U,35,21,17.3,0,0
+1091,Plan for USA 20GB,0,0,North America,US,20,30,Esim-Go,esimg_20GB_30D_US_U,35,32,26.5,0,0
+1092,Plan for Uzbekistan 20GB,0,0,Middle East,UZ,20,30,Esim-Go,esimg_20GB_30D_UZ_U,40,36,29.9,0,0
+1093,Plan for Yemen 20GB,0,0,Middle East,YE,20,30,Esim-Go,esimg_20GB_30D_YE_U,85,82,69,0,0
+1124,Plan for Lithuania 10GB,0,0,Europe,LT,10,30,Esim-Go,esimg_10GB_30D_LT_U,30,28,9.8,0,0
+1125,Plan for Luxembourg 10GB,0,0,Europe,LU,10,30,Esim-Go,esimg_10GB_30D_LU_U,30,28,9.8,0,0
+1150,Plan for Europe 3GB,0,0,Europe,"AX,AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,DE,GR,HU,IS,IE,IT,LV,LI,LT,LU,MT,NL,NO,PL,PT,RO,SK,SI,ES,SE,CH,TR,UA,GB",3,30,Esim-Go,esimg_3GB_30D_REUP_U,12,5,4,0,0
+1151,Plan for Europe 5GB,0,0,Europe,"AX,AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,DE,GR,HU,IS,IE,IT,LV,LI,LT,LU,MT,NL,NO,PL,PT,RO,SK,SI,ES,SE,CH,TR,UA,GB",5,30,Esim-Go,esimg_5GB_30D_REUP_U,20,7,5.8,0,0
+1152,Plan for Europe 10GB,0,0,Europe,"AX,AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,DE,GR,HU,IS,IE,IT,LV,LI,LT,LU,MT,NL,NO,PL,PT,RO,SK,SI,ES,SE,CH,TR,UA,GB",10,30,Esim-Go,esimg_10GB_30D_REUP_U,30,12,9.8,0,0
+1153,Plan for Europe 20GB,0,0,Europe,"AX,AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,DE,GR,HU,IS,IE,IT,LV,LI,LT,LU,MT,NL,NO,PL,PT,RO,SK,SI,ES,SE,CH,TR,UA,GB",20,30,Esim-Go,esimg_20GB_30D_REUP_U,40,21,17.3,0,0
+1154,Plan for North America 3GB,0,0,North America,"US,CA,MX",3,30,Esim-Go,esimg_3GB_30D_RNA_U,12.5,11,9.4,0,0
+1155,Plan for North America 5GB,0,0,North America,"US,CA,MX",5,30,Esim-Go,esimg_5GB_30D_RNA_U,20,18,15,0,0
+1156,Plan for North America 10GB,0,0,North America,"US,CA,MX",10,30,Esim-Go,esimg_10GB_30D_RNA_U,35,31,26.5,0,0
+1157,Plan for North America 20GB,0,0,North America,"US,CA,MX",20,30,Esim-Go,esimg_20GB_30D_RNA_U,55,54,46,0,0
+1158,Plan for Asia 3GB,0,0,Asia,"MY,UZ,KR,SG,MO,LK,ID,HK,CN,TW,VN,TH,AU,PK,KZ",3,30,Esim-Go,esimg_3GB_30D_RAS_U,10,8,6.3,0,0
+1159,Plan for Asia 5GB,0,0,Asia,"MY,UZ,KR,SG,MO,LK,ID,HK,CN,TW,VN,TH,AU,PK,KZ",5,30,Esim-Go,esimg_5GB_30D_RAS_U,15,12,9.8,0,0
+1160,Plan for Asia 10GB,0,0,Asia,"MY,UZ,KR,SG,MO,LK,ID,HK,CN,TW,VN,TH,AU,PK,KZ",10,30,Esim-Go,esimg_10GB_30D_RAS_U,25,21,17.3,0,0
+1161,Plan for Asia 20GB,0,0,Asia,"MY,UZ,KR,SG,MO,LK,ID,HK,CN,TW,VN,TH,AU,PK,KZ",20,30,Esim-Go,esimg_20GB_30D_RAS_U,40,36,29.9,0,0
+1162,Plan for Middle East 3GB,0,0,Middle East,"IL,AE,JO,KW,OM,SA",3,30,Esim-Go,esimg_3GB_30D_RME_U,15,12,9.4,0,0
+1163,Plan for Middle East 5GB,0,0,Middle East,"IL,AE,JO,KW,OM,SA",5,30,Esim-Go,esimg_5GB_30D_RME_U,20,18,15,0,0
+1164,Plan for Middle East 10GB,0,0,Middle East,"IL,AE,JO,KW,OM,SA",10,30,Esim-Go,esimg_10GB_30D_RME_U,35,32,26.5,0,0
+1165,Plan for Middle East 20GB,0,0,Middle East,"IL,AE,JO,KW,OM,SA",20,30,Esim-Go,esimg_20GB_30D_RME_U,60,55,46,0,0
+1166,Plan for Africa 3GB,0,0,Africa,"ZM,MG,RE,SC,TD,NG,TN,ZA,CD,EG,TZ,KE",3,30,Esim-Go,esimg_3GB_30D_RAF_U,20,18,15,0,0
+1167,Plan for Africa 5GB,0,0,Africa,"ZM,MG,RE,SC,TD,NG,TN,ZA,CD,EG,TZ,KE",5,30,Esim-Go,esimg_5GB_30D_RAF_U,30,28,23,0,0
+1168,Plan for Africa 10GB,0,1,Africa,"ZM,MG,RE,SC,TD,NG,TN,ZA,CD,EG,TZ,KE",10,30,Esim-Go,esimg_10GB_30D_RAF_U,50,48,40.3,0,0
+1169,Plan for Africa 20GB,0,0,Africa,"ZM,MG,RE,SC,TD,NG,TN,ZA,CD,EG,TZ,KE",20,30,Esim-Go,esimg_20GB_30D_RAF_U,85,82,69,0,0
+1170,Plan for LATAMS 3GB,0,0,LATAM,"CO,CR,EC,SV,GT,NI,PA,PE,UY,BR,AR,PY,BO",3,30,Esim-Go,esimg_3GB_30D_RLA_U,25,24,19.6,0,0
+1171,Plan for LATAMS 5GB,0,0,LATAM,"CO,CR,EC,SV,GT,NI,PA,PE,UY,BR,AR,PY,BO",5,30,Esim-Go,esimg_5GB_30D_RLA_U,35,34,28.8,0,0
+1172,Plan for LATAMS 10GB,0,0,LATAM,"CO,CR,EC,SV,GT,NI,PA,PE,UY,BR,AR,PY,BO",10,30,Esim-Go,esimg_10GB_30D_RLA_U,62,61,51.8,0,0
+1178,Global Plan 1GB,1,0,GLOBAL,"AX,AL,DZ,AD,AR,AM,AU,AT,AZ,BH,BD,BY,BE,BO,BA,BW,BR,BN,BG,KH,CM,CA,CF,TD,CL,CN,CO,CD,CG,CR,CI,HR,CY,CZ,DK,DO,EC,EG,EE,SV,FI,FR,GA,GS,DE,GH,GI,GR,GL,GU,GT,GG,GW,HK,HU,IS,IN,ID,IQ,IE,IM,IL,IT,JP,JE,JO,KZ,KE,KR,XK,KW,KG,LA,LV,LR,LI,LT,LU,MO,MK,MG,MW,MY,ML,MT,MX,MD,MC,MN,ME,MA,MM,NL,NZ,NI,NE,NG,NO,OM,PK,PA,PY,PE,PH,PL,PT,QA,RE,RO,RU,SA,SN,RS,SC,SG,SK,SI,ZA,ES,LK,SZ,SE,CH,TW,TJ,TZ,TH,TN,TR,UG,UA,AE,GB,US,UY,UZ,VN,YE,ZM",1,7,Esim-Go,esimg_1GB_7D_RGB_U,17.5,17,13.8,0,0
+1179,Global Plan 3GB,1,0,GLOBAL,"AX,AL,DZ,AD,AR,AM,AU,AT,AZ,BH,BD,BY,BE,BO,BA,BW,BR,BN,BG,KH,CM,CA,CF,TD,CL,CN,CO,CD,CG,CR,CI,HR,CY,CZ,DK,DO,EC,EG,EE,SV,FI,FR,GA,GS,DE,GH,GI,GR,GL,GU,GT,GG,GW,HK,HU,IS,IN,ID,IQ,IE,IM,IL,IT,JP,JE,JO,KZ,KE,KR,XK,KW,KG,LA,LV,LR,LI,LT,LU,MO,MK,MG,MW,MY,ML,MT,MX,MD,MC,MN,ME,MA,MM,NL,NZ,NI,NE,NG,NO,OM,PK,PA,PY,PE,PH,PL,PT,QA,RE,RO,RU,SA,SN,RS,SC,SG,SK,SI,ZA,ES,LK,SZ,SE,CH,TW,TJ,TZ,TH,TN,TR,UG,UA,AE,GB,US,UY,UZ,VN,YE,ZM",3,30,Esim-Go,esimg_3GB_30D_RGB_U,45,41,34.5,0,0
+1180,Global Plan 5GB,1,0,GLOBAL,"AX,AL,DZ,AD,AR,AM,AU,AT,AZ,BH,BD,BY,BE,BO,BA,BW,BR,BN,BG,KH,CM,CA,CF,TD,CL,CN,CO,CD,CG,CR,CI,HR,CY,CZ,DK,DO,EC,EG,EE,SV,FI,FR,GA,GS,DE,GH,GI,GR,GL,GU,GT,GG,GW,HK,HU,IS,IN,ID,IQ,IE,IM,IL,IT,JP,JE,JO,KZ,KE,KR,XK,KW,KG,LA,LV,LR,LI,LT,LU,MO,MK,MG,MW,MY,ML,MT,MX,MD,MC,MN,ME,MA,MM,NL,NZ,NI,NE,NG,NO,OM,PK,PA,PY,PE,PH,PL,PT,QA,RE,RO,RU,SA,SN,RS,SC,SG,SK,SI,ZA,ES,LK,SZ,SE,CH,TW,TJ,TZ,TH,TN,TR,UG,UA,AE,GB,US,UY,UZ,VN,YE,ZM",5,30,Esim-Go,esimg_5GB_30D_RGB_U,70,60,51.8,0,0
+1181,Plan For Bangladesh,0,0,Asia,BD,1,7,AIRALO,fatafati-7days-1gb,5,4.5,4.5,1,0
+1182,Plan For Cambodia,0,0,Asia,KH,1,7,AIRALO,connect-cambodia-7days-1gb,5,4.5,4.5,1,0
+1183,Plan For Mongolia,0,0,Asia,MN,1,7,AIRALO,mongo-mobile-fiber-7days-1gb,10,9,9,1,0
+1184,Plan For Laos,0,0,Asia,LA,1,7,AIRALO,pak-ou-mobile-7days-1gb,10,9.5,9.5,1,0
+1185,Plan For Nepal,0,0,Asia,NP,1,7,AIRALO,patancell-7days-1gb,10,9.5,9.5,1,0
+1186,Plan For Bahamas,0,0,Caribbean,BS,1,7,AIRALO,jitney-mobile-7days-1gb,15,15,9.5,1,0
+1187,Plan for Georgia,0,0,Eastern Europe,GE,1,7,AIRALO,kargi-mobile-7days-1gb,6,5.5,5.5,1,0
+1188,Plan For Palestine,0,0,Middle East,PS,1,7,AIRALO,tine-mobile-7days-1gb,6.5,6.5,6.5,1,0
+1189,Plan for Iran,0,0,Middle East,IR,1,7,AIRALO,babel-mobile-7days-1gb,10,9.5,9.5,1,0
+1190,Plan for Iraq,0,0,Middle East,IQ,1,7,AIRALO,mehr-mobile-7days-1gb,10,9.5,9.5,1,0
+,Plan for Africa 24,0,1,Africa,"BW,BF,CF,CG,CI,SZ,GA,GH,GW,KE,LR,MG,MW,NA,NE,NG,RW,SN,SL,SO,ZA,UG",1,365,Keep GO,14,20,16,20.84,1,0
+,Plan for Australia,0,0,Oceania,AU,1,7,Esim-Go,esimg_1GB_7D_AU_U,4,2,2.2,0,0
+,Plan for Cote d'Ivoire,0,0,Africa,CI,1,7,Esim-Go,esimg_1GB_7D_CI_U,15,11.6,9.8,0,0
+,Plan for Eswatini,0,0,Africa,SZ,1,7,Keep GO,112,20,14.7,7.6,1,0
+,Plan for India,0,0,Asia,IN,1,7,Esim-Go,esimg_1GB_7D_IN_U,7.5,6.9,5.8,0,0
+,Plan for Indonesia,0,0,Asia,ID,1,7,Esim-Go,esimg_1GB_7D_ID_U,5,2.6,2.2,0,0
+,Plan for Ireland,0,0,Europe,IE,1,7,Esim-Go,esimg_1GB_7D_IE_U,5,2,1.7,0,0
+,Plan for Korea,0,0,Asia,KR,1,7,Esim-Go,esimg_1GB_7D_KR_U,5,3,2.5,0,0
+,Plan for Liechtenstein,0,0,Europe,LI,1,7,Keep GO,134,5,3.6,1.8,1,0
+,Plan for Namibia,0,0,Africa,NA,1,7,Keep GO,94,15,14.7,7.79,1,0
+,Plan for Rwanda,0,0,Africa,RW,1,7,Keep GO,101,15,14.7,7.6,1,0
+,Plan for Sierra Leone,0,0,Africa,SL,1,7,Keep GO,108,15,14.7,7.6,1,0
+,Plan for Afghanistan 3GB,0,0,Middle East,AF,3,30,Keep GO,30,16,14.6,21.54,1,0
+,Plan for Burkina Faso 3GB,0,0,Africa,BF,3,30,Keep GO,42,45,41.2,34.58,1,0
+,Plan for Eswatini 3GB,0,0,Africa,SZ,3,30,Keep GO,112,45,41.2,21.54,1,0
+,Plan for Namibia 3GB,0,0,Africa,NA,3,30,Keep GO,94,45,41.2,29.54,1,0
+,Plan for Rwanda 3GB,0,0,Africa,RW,3,30,Keep GO,101,45,41.2,21.54,1,0
+,Plan for Senegal 3GB,0,0,Africa,SN,3,30,Keep GO,106,45,41.2,21,1,0
+,Plan for Sierra Leone 3GB,0,0,Africa,SL,3,30,Keep GO,108,45,41.2,28.82,1,0
+,Plan for Afghanistan 5GB,0,0,Middle East,AF,5,30,Keep GO,30,55,49.3,45.21,1,0
+,Plan for Africa 24 5GB,0,1,Africa,"BW,BF,CF,CG,CI,SZ,GA,GH,GW,KE,LR,MG,MW,NA,NE,NG,RW,SN,SL,SO,ZA,UG",5,365,Keep GO,14,65,60,69.23,1,0
+,Plan for Burkina Faso 5GB,0,0,Africa,BF,5,30,Keep GO,42,65,64.7,54.24,1,0
+,Plan for Eswatini 5GB,0,0,Africa,SZ,5,30,Keep GO,112,65,64.7,33.79,1,0
+,Plan for Guinea Bissau 5GB,0,0,Africa,GW,5,30,Keep GO,72,65,64.7,45.21,1,0
+,Plan for Namibia 5GB,0,0,Africa,NA,5,30,Keep GO,94,65,64.7,46.33,1,0
+,Plan for Rwanda 5GB,0,0,Africa,RW,5,30,Keep GO,101,65,64.7,45.21,1,0
+,Plan for Senegal 5GB,0,0,Africa,SN,5,30,Keep GO,106,65,64.7,36.17,1,0
+,Plan for Sierra Leone 5GB,0,0,Africa,SL,5,30,Keep GO,108,65,64.7,45.21,1,0
+,Plan for Afghanistan 10GB,0,0,Middle East,AF,10,30,Keep GO,30,88,86,79.11,1,0
+,Plan for Africa 24 10GB,0,1,Africa,"BW,BF,CF,CG,CI,SZ,GA,GH,GW,KE,LR,MG,MW,NA,NE,NG,RW,SN,SL,SO,ZA,UG",10,365,Keep GO,14,120,114,131.56,1,0
+,Plan for Botswana 10GB,0,0,Africa,BW,10,30,Keep GO,40,120,117.5,73.18,1,0
+,Plan for Burkina Faso 10GB,0,0,Africa,BF,10,30,Keep GO,42,120,117.5,94.93,1,0
+,Plan for Central African Republic 10GB,0,0,Africa,CF,10,30,Keep GO,47,120,117.5,77.13,1,0
+,Plan for Eswatini 10GB,0,0,Africa,SZ,10,30,Keep GO,112,120,117.5,79.11,1,0
+,Plan for Ghana 10GB,0,0,Africa,GH,10,30,Keep GO,66,120,117.5,79.11,1,0
+,Plan for Guinea Bissau 10GB,0,0,Africa,GW,10,30,Keep GO,72,120,117.5,79.11,1,0
+,Plan for Namibia 10GB,0,0,Africa,NA,10,30,Keep GO,94,120,117.5,81.09,1,0
+,Plan for Niger 10GB,0,0,Africa,NE,10,30,Keep GO,96,120,117.5,81.09,1,0
+,Plan for Rwanda 10GB,0,0,Africa,RW,10,30,Keep GO,101,120,117.5,79.11,1,0
+,Plan for Senegal 10GB,0,0,Africa,SN,10,30,Keep GO,106,120,117.5,63.29,1,0
+,Plan for Sierra Leone 10GB,0,0,Africa,SL,10,30,Keep GO,108,120,117.5,79.11,1,0

@@ -1,0 +1,97 @@
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <meta http-equiv='X-UA-Compatible' content='ie=edge' />
+    <link
+      rel='stylesheet'
+      href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css'
+    />
+    <link
+      rel='stylesheet'
+      href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0-11/css/all.min.css'
+    />
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <title>Email-Template</title>
+  </head>
+  <style>
+
+    .container{ } .wrapper{ display: flex; flex-direction: column !important;
+    margin: 0 auto; padding: 15px; } .logo{ display: block; flex-direction:
+    column; justify-content: center; align-items: center; margin: 0 auto;
+    text-align: center; } .logo img{ width: 500px; margin: 0 auto; } .line{
+    font-size: 20px; } .para{ font-size: 20px; } .eSim-info{ display: block; }
+    .heading-1{ font-size: 22px; font-weight: 700; } .content{ display: grid;
+    grid-template-columns: 50% 50%; } .item{ font-size: 22px; line-height: 25px;
+    } .qr-image{ display: flex; justify-content: center; align-items: center; }
+    span{ color: rgb(52, 248, 2); font-weight: 700; } @media (max-width: 884px){
+    .content{ grid-template-columns: 100% !important; } } @media (max-width:
+    530px){ .logo img{ width: 300px; } } @media (max-width: 400px){ .wrapper{
+    padding: 5px; } }
+
+  </style>
+  <body>
+
+    <div class='container'>
+      <div class='wrapper' style='display: block; margin: 0 auto;'>
+        <div class='logo'>
+          <img src='https://viajephone.com/cdn/shop/files/logo_200px_03.png' />
+        </div>
+        <div class='line'>
+          Hola
+          {{email}}
+        </div>
+        <div class='para'>
+          <p>Gracias por elegir viajephone. Escanea el siguiente código QR desde
+            tu dispositivo para instalar tu eSIM antes de viajar.</p>
+          <p>Recuerda, al llegar a tu destino, debes activar la opción
+            "Itinerancia de datos/Data roaming"</p>
+        </div>
+        <div class='eSim-info'>
+          <div class='heading-1'>Resumen del pedido</div>
+          <div class='content row'>
+            <ul class='col-md-6 col-sm-12'>
+              <li class='item'>ID del pedido: {{order_id}}</li>
+              <li class='item'>Fecha del pedido: {{order_date}}</li>
+              <li class='item'>ICCID: {{iccid}}</li>
+              <li class='item'>APN (Access Point Name): {{apn}}</li>
+              <li class='item'>ltinerancia de datos: {{dataRoaming}}</li>
+              <li class='item'>Plan de datos comprado:
+                {{planName}}
+                {{packageData}}
+                GB -
+                {{packageValidity}}
+                Days</li>
+              {{! <li class="item">Precio total del pedido: 12345</li> }}
+              <li class='item'>SM - DP + Address: {{iosAddress}}</li>
+              <li class='item'>Codigo de activación: {{iosURL}}</li>
+            </ul>
+            <div class='qr-image col-md-6 col-sm-12'>
+              <img src={{qr_url}} width='200px' height='200px' alt='' />
+            </div>
+          </div>
+        </div>
+        <div class='eSim-info'>
+          <div class='heading-1'>Por favor ten en cuenta</div>
+          <ul>
+            <li class='item'>La eSIM se puede descargar solamente una vez</li>
+            <li class='item'>No elimines la eSIM de tu dispositivo hasta que
+              termines de usar tu plan de datos. Una vez eliminado, la eSIM no
+              se puede restaurar.</li>
+          </ul>
+        </div>
+        <div class='para'>
+          <p>No dudes en consultar nuestra sección de
+            <span>preguntas frecuentes</span>
+            si tienes cualquier duda adicional.</p>
+        </div>
+        <div class='para'>
+          <p>Muchas gracias,</p>
+          <p>Equipo viajephone.</p>
+        </div>
+      </div>
+
+    </div>
+
+  </body>
+</html>
